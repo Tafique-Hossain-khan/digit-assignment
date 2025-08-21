@@ -18,6 +18,7 @@ import streamlit as st
 
 from langchain_core.pydantic_v1 import BaseModel, Field, validator
 from cleaning_helper import plan_cleaning, apply_cleaning_plan, heuristic_clean
+from model_helper import run_automl
 
 
 # Load environment variables
@@ -348,5 +349,46 @@ elif menu == "Analysis":
 
 # ---------------- Model Page ----------------
 elif menu == "Model":
-    st.header("🤖 Modeling")
-    st.info("Feature coming soon 🚧")
+    st.header("🤖 AutoML: Preprocess + Train + Tune")
+
+    uploaded_file = st.file_uploader("Upload your CLEAN dataset (CSV)", type=["csv"], key="model_csv")
+    if uploaded_file is None:
+        st.info("Upload a cleaned CSV to begin.")
+    else:
+        df_model = pd.read_csv(uploaded_file)
+        st.write("### Preview of Data")
+        st.dataframe(df_model.head())
+
+        cols = list(df_model.columns)
+        target_col = st.selectbox("Select target column", options=cols, index=len(cols)-1 if cols else 0)
+        task = st.selectbox("Task type", options=["Classification", "Regression"]) 
+        n_trials = st.slider("Hyperparameter tuning trials (Optuna)", min_value=10, max_value=100, value=25, step=5)
+
+        if st.button("Run AutoML"):
+            with st.spinner("Building preprocessing pipeline, training candidates, and tuning best model..."):
+                try:
+                    result = run_automl(df_model, target_col=target_col, task=task, n_trials=n_trials)
+                except Exception as e:
+                    st.error(f"AutoML failed: {e}")
+                    result = None
+
+            if result is not None:
+                st.success("AutoML complete. Artifacts ready to download.")
+
+                # Downloads
+                st.download_button(
+                    label="Download preprocess.pkl",
+                    data=result.preprocess_bytes,
+                    file_name="preprocess.pkl",
+                    mime="application/octet-stream",
+                )
+                st.download_button(
+                    label="Download model.pkl",
+                    data=result.model_bytes,
+                    file_name="model.pkl",
+                    mime="application/octet-stream",
+                )
+
+                # Justification report
+                with st.expander("Justification Report"):
+                    st.json(result.justification)

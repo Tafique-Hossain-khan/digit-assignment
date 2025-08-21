@@ -6,3 +6,7 @@ langchain-google-genai
 google-generativeai
 
 langchain-openai
+scikit-learn
+optuna
+xgboost
+category-encoders
