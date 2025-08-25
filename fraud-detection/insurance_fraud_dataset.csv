@@ -1,0 +1,1001 @@
+claim_id,policy_number,claim_amount,age_of_driver,gender,marital_status,annual_income,education_level,occupation,vehicle_age,vehicle_category,accident_site,witness_present,police_report,past_claims,claim_description,fraud_reported
+CLM_000001,POL_770487,6279.66,72,M,Single,58153.0,PhD,Student,11,Compact,City,1,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000002,POL_216739,3691.6854781332536,61,M,Widowed,60575.0,High School,Doctor,17,Luxury,City,1,0,2,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000003,POL_126225,7875.66,66,F,Single,28851.0,Master,Student,12,Luxury,Parking Lot,0,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000004,POL_877572,29276.63,57,M,Divorced,35004.0,PhD,Other,4,Sports,Rural,1,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000005,POL_388389,2098.06,28,M,Divorced,79717.0,High School,Engineer,11,Large,Rural,0,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000006,POL_356787,4836.881887037403,78,F,Divorced,45589.0,Bachelor,Teacher,1,Large,City,1,0,3,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000007,POL_334053,31850.85,20,F,Divorced,56120.0,Master,Other,4,Compact,Parking Lot,1,1,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000008,POL_246316,9425.29,76,F,Single,71093.0,Bachelor,Retired,6,Luxury,Highway,0,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000009,POL_872246,1474.08,23,F,Divorced,59269.0,Bachelor,Engineer,11,Sports,City,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000010,POL_207473,6726.7,26,F,Single,60930.0,PhD,Retired,15,Compact,Rural,0,0,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000011,POL_809570,1487.53,23,F,Widowed,67892.0,PhD,Student,7,Large,Rural,1,0,0,"Collision with deer on rural highway, front end damage",0
+CLM_000012,POL_876646,1482.38,26,F,Divorced,20000.0,PhD,Teacher,8,Luxury,Rural,1,0,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000013,POL_671858,4285.29,56,M,Married,40201.0,Master,Teacher,14,Sports,Highway,1,1,3,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000014,POL_191161,169.03,48,F,Divorced,59372.0,Bachelor,Student,4,Mid-size,Rural,0,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000015,POL_719176,224.22,49,F,Divorced,77753.0,Master,Student,12,Luxury,Highway,1,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000016,POL_542417,3003.0754000340626,58,F,Single,51322.0,PhD,Doctor,4,Sports,Highway,1,1,5,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000017,POL_133326,652.46,67,M,Divorced,33106.0,Bachelor,Student,10,Compact,Highway,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000018,POL_131244,4776.06,29,M,Married,33638.0,Master,Business,9,Mid-size,City,0,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000019,POL_198246,1585.039431536803,25,F,Single,67677.0,Master,Student,19,Sports,Highway,1,1,5,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000020,POL_329258,358.36,25,F,Single,45645.0,High School,Business,12,Sports,Parking Lot,1,0,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000021,POL_343962,26862.14,67,F,Widowed,49856.0,Master,Student,8,Large,Rural,0,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000022,POL_629903,2124.59,45,M,Widowed,62301.0,PhD,Doctor,13,Luxury,City,1,1,0,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000023,POL_731262,3298.73,79,M,Divorced,20000.0,Master,Business,17,Large,Rural,1,1,3,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000024,POL_127824,351.73,37,F,Widowed,90007.0,Bachelor,Engineer,14,Mid-size,Highway,1,1,7,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000025,POL_688508,1317.41,79,M,Widowed,35379.0,Master,Business,9,Sports,City,1,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000026,POL_308496,3520.59,64,F,Widowed,54839.0,High School,Other,6,Large,Parking Lot,1,1,3,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000027,POL_850800,1009.2853892339359,76,M,Single,20000.0,Bachelor,Doctor,7,Luxury,Highway,1,1,3,Claiming pre-existing damage as accident-related repairs,1
+CLM_000028,POL_781453,12978.301535634853,24,M,Single,41549.0,Bachelor,Retired,2,Mid-size,Rural,0,0,0,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000029,POL_835392,1210.81,28,F,Single,74894.0,High School,Business,14,Compact,Parking Lot,1,0,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000030,POL_671412,1924.57,37,F,Widowed,20000.0,PhD,Other,15,Large,Highway,1,0,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000031,POL_539898,1208.87,33,F,Single,72524.0,Bachelor,Other,3,Mid-size,Parking Lot,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000032,POL_331148,47974.13,21,F,Widowed,44526.0,PhD,Other,5,Compact,Highway,1,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000033,POL_571029,2921.21,23,M,Single,59743.0,Bachelor,Student,0,Large,City,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000034,POL_717889,609.98,75,M,Single,63150.0,Bachelor,Other,3,Mid-size,Highway,1,1,3,Theft of vehicle contents including electronics and personal items,0
+CLM_000035,POL_391704,10237.55,39,M,Married,58828.0,PhD,Student,10,Mid-size,City,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000036,POL_948749,812.8357834409833,43,F,Divorced,32701.0,Bachelor,Retired,11,Large,Highway,1,0,3,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000037,POL_106814,4077.73,20,M,Widowed,42709.0,PhD,Doctor,4,Mid-size,Highway,1,1,3,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000038,POL_895667,359.1600480569147,58,F,Married,20769.0,High School,Teacher,15,Sports,Rural,0,1,2,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000039,POL_944962,406.56,77,M,Single,59836.0,PhD,Student,12,Large,Parking Lot,0,1,3,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000040,POL_267414,10621.624906427938,59,F,Widowed,84041.0,High School,Other,12,Mid-size,Parking Lot,1,1,2,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000041,POL_832052,9024.51,31,F,Single,20000.0,Bachelor,Other,16,Compact,Parking Lot,1,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000042,POL_543143,3854.72,28,M,Divorced,34767.0,PhD,Engineer,6,Compact,Highway,1,0,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000043,POL_456778,2506.21,35,F,Married,46364.0,Bachelor,Other,7,Sports,Highway,0,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000044,POL_391369,1897.6,71,F,Divorced,53467.0,PhD,Doctor,12,Large,Highway,0,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000045,POL_263032,324.48,29,M,Married,67584.0,High School,Business,15,Mid-size,City,0,0,3,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000046,POL_325772,1012.56,40,F,Single,46956.0,High School,Business,3,Mid-size,City,0,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000047,POL_900581,1493.75,29,F,Divorced,43681.0,PhD,Other,7,Compact,Rural,0,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000048,POL_452944,14554.91,30,F,Divorced,72063.0,High School,Engineer,15,Sports,Highway,1,0,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000049,POL_207175,4991.18,42,M,Single,63240.0,Bachelor,Student,9,Compact,Parking Lot,1,0,2,"Collision with deer on rural highway, front end damage",0
+CLM_000050,POL_197251,211.76,62,M,Divorced,60780.0,Bachelor,Doctor,11,Compact,Parking Lot,1,0,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000051,POL_498382,4847.05,68,F,Widowed,52250.0,Master,Engineer,11,Sports,Rural,1,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000052,POL_201414,1673.0,75,M,Married,69663.0,High School,Student,4,Large,Parking Lot,1,0,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000053,POL_476417,1079.89,36,F,Married,36874.0,Bachelor,Doctor,15,Mid-size,Rural,0,1,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000054,POL_988662,7461.52,72,F,Married,34146.0,PhD,Other,0,Large,Highway,0,0,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000055,POL_460663,13995.61,63,F,Widowed,64922.0,High School,Business,8,Luxury,Parking Lot,1,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000056,POL_733052,12051.21,53,F,Married,20000.0,Bachelor,Doctor,11,Luxury,Highway,1,1,2,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000057,POL_377370,846.55,62,F,Single,51844.0,High School,Other,4,Luxury,City,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000058,POL_946335,1874.66,25,M,Divorced,43669.0,PhD,Retired,19,Sports,Parking Lot,1,0,2,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000059,POL_145561,4899.53,46,F,Widowed,21885.0,Bachelor,Teacher,2,Compact,City,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000060,POL_865179,22491.68723737691,72,M,Married,31375.0,Master,Doctor,4,Large,Parking Lot,1,1,0,Claiming luxury vehicle repairs for standard model car,1
+CLM_000061,POL_581741,1452.79,70,M,Single,47820.0,Master,Teacher,1,Mid-size,Highway,1,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000062,POL_662275,2256.37,72,F,Divorced,70679.0,High School,Doctor,13,Luxury,Rural,1,1,3,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000063,POL_230889,567.08,49,F,Divorced,36941.0,PhD,Teacher,1,Large,Highway,1,1,3,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000064,POL_496922,495.56,68,M,Widowed,74268.0,Bachelor,Retired,12,Luxury,Highway,1,1,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000065,POL_182627,10084.84,61,M,Widowed,51264.0,PhD,Business,6,Luxury,Highway,0,0,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000066,POL_678856,22796.45,35,M,Widowed,76208.0,Bachelor,Student,9,Mid-size,Parking Lot,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000067,POL_407419,2675.75,23,F,Single,37910.0,High School,Teacher,12,Sports,Rural,1,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000068,POL_969693,35321.28062642137,35,M,Single,49024.0,Bachelor,Retired,15,Compact,City,1,1,2,Inconsistent witness statements and conflicting accident details,1
+CLM_000069,POL_759176,5127.91,36,F,Widowed,57370.0,PhD,Teacher,13,Sports,Highway,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000070,POL_748564,2991.572263106532,39,F,Married,46410.0,PhD,Business,10,Large,Parking Lot,1,1,2,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000071,POL_479201,5126.06,54,F,Divorced,69060.0,High School,Teacher,9,Sports,City,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000072,POL_705397,47606.26622874344,49,M,Divorced,20000.0,PhD,Retired,5,Large,Highway,1,0,3,Claiming pre-existing damage as accident-related repairs,1
+CLM_000073,POL_301629,2824.99,73,F,Single,98448.0,Bachelor,Other,3,Large,City,1,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000074,POL_838797,31162.34,58,F,Divorced,67155.0,High School,Retired,0,Compact,Highway,0,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000075,POL_172933,58.58,76,F,Married,46529.0,Bachelor,Engineer,6,Mid-size,City,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000076,POL_148050,10227.69,20,F,Divorced,38954.0,PhD,Business,8,Compact,City,1,0,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000077,POL_793384,5190.81820769006,45,F,Single,32672.0,High School,Other,7,Sports,Rural,0,1,4,Claiming luxury vehicle repairs for standard model car,1
+CLM_000078,POL_338968,1903.57,27,M,Single,62912.0,Bachelor,Engineer,4,Large,Rural,0,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000079,POL_910620,3420.84,68,F,Married,69900.0,PhD,Business,18,Luxury,Highway,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000080,POL_403445,447.7181591092124,52,F,Married,46749.0,PhD,Other,9,Luxury,Parking Lot,1,1,1,Multiple injuries reported for single occupant in low-speed accident,1
+CLM_000081,POL_183667,2144.14,78,M,Divorced,72140.0,Master,Teacher,10,Large,Rural,1,1,3,Theft of vehicle contents including electronics and personal items,0
+CLM_000082,POL_996865,5093.24,46,F,Divorced,31855.0,PhD,Other,14,Compact,City,0,1,3,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000083,POL_344098,27360.1,71,M,Single,28324.0,Bachelor,Retired,5,Mid-size,Rural,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000084,POL_205907,1370.04,32,F,Married,86267.0,High School,Engineer,14,Compact,Rural,1,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000085,POL_498591,886.48,50,M,Married,61822.0,Master,Teacher,4,Large,Highway,0,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000086,POL_391476,1404.4,24,M,Married,77937.0,PhD,Retired,18,Large,Rural,0,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000087,POL_575435,11767.58,29,F,Divorced,32921.0,PhD,Business,18,Mid-size,Rural,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000088,POL_766563,4881.1,66,F,Married,31529.0,PhD,Other,9,Sports,City,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000089,POL_974628,1346.63,47,F,Single,42828.0,Bachelor,Retired,11,Sports,Rural,1,0,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000090,POL_482554,6437.54,38,M,Single,33519.0,Master,Teacher,3,Mid-size,City,0,0,2,"Collision with deer on rural highway, front end damage",0
+CLM_000091,POL_270555,3448.23,48,M,Divorced,64107.0,Bachelor,Engineer,17,Sports,Rural,1,0,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000092,POL_488162,12745.93,75,M,Widowed,34977.0,Master,Engineer,15,Luxury,Rural,1,0,2,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000093,POL_472528,1039.94,78,F,Divorced,26567.0,High School,Other,7,Sports,Parking Lot,0,0,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000094,POL_319684,1823.49,41,M,Widowed,52840.0,Bachelor,Retired,3,Sports,Rural,1,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000095,POL_802729,1655.47,37,M,Married,24200.0,Bachelor,Teacher,11,Sports,City,1,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000096,POL_379946,331.86,54,F,Divorced,20000.0,High School,Doctor,1,Luxury,City,0,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000097,POL_835911,4647.94,21,M,Single,52665.0,Master,Business,3,Sports,Highway,1,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000098,POL_816751,4409.79,45,M,Married,20000.0,PhD,Business,4,Luxury,Highway,1,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000099,POL_779514,3003.91,61,F,Single,65506.0,High School,Teacher,2,Mid-size,Parking Lot,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000100,POL_174870,2096.7,79,M,Married,22093.0,PhD,Doctor,8,Compact,City,0,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000101,POL_738720,356.72,37,F,Divorced,20000.0,PhD,Engineer,17,Mid-size,City,0,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000102,POL_765822,1586.1,77,F,Widowed,44124.0,High School,Other,10,Compact,City,1,0,0,"Collision with deer on rural highway, front end damage",0
+CLM_000103,POL_279451,1782.78,41,F,Married,52892.0,Master,Student,2,Mid-size,Parking Lot,1,0,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000104,POL_660086,894.79,67,F,Widowed,59830.0,PhD,Student,1,Compact,City,0,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000105,POL_864544,2340.39,66,F,Married,53440.0,High School,Other,8,Compact,Highway,0,0,2,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000106,POL_356702,5464.76,68,M,Single,28814.0,Bachelor,Teacher,13,Large,Parking Lot,0,1,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000107,POL_271339,50477.29,49,M,Single,64261.0,Bachelor,Doctor,3,Compact,Highway,1,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000108,POL_584714,3873.32,58,F,Married,69203.0,Bachelor,Doctor,8,Compact,Highway,1,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000109,POL_497887,4386.67,53,F,Widowed,25885.0,High School,Business,12,Large,Parking Lot,1,0,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000110,POL_383060,4772.3193545959075,75,M,Divorced,46380.0,Bachelor,Engineer,17,Sports,Rural,0,1,1,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000111,POL_771088,167.64,70,F,Divorced,44511.0,PhD,Retired,14,Sports,Rural,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000112,POL_821590,7829.905284728007,51,F,Single,54408.0,Bachelor,Doctor,9,Large,Highway,0,1,2,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000113,POL_684004,3262.81,53,F,Divorced,45902.0,Bachelor,Other,15,Luxury,Rural,1,0,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000114,POL_330283,119953.95,19,M,Single,48642.0,PhD,Retired,11,Compact,City,1,0,3,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000115,POL_817870,5233.292983158883,32,M,Divorced,62836.0,Bachelor,Student,19,Compact,Parking Lot,1,0,2,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000116,POL_440035,4685.94,51,F,Married,27723.0,PhD,Retired,4,Large,Highway,1,0,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000117,POL_983794,2829.72,53,F,Single,64747.0,Bachelor,Engineer,1,Large,City,0,1,4,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000118,POL_905635,516.45,23,M,Single,72823.0,PhD,Other,9,Luxury,Rural,0,0,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000119,POL_913694,31393.44224153986,56,M,Married,82683.0,Bachelor,Engineer,0,Sports,City,1,1,1,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000120,POL_158655,9208.66,59,F,Single,20000.0,PhD,Retired,6,Mid-size,Rural,1,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000121,POL_340174,9764.88,68,F,Divorced,46342.0,High School,Teacher,16,Sports,Highway,1,0,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000122,POL_961722,761.98,68,M,Divorced,20000.0,PhD,Doctor,15,Compact,City,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000123,POL_133659,24445.26,75,M,Single,20000.0,Bachelor,Other,2,Large,Parking Lot,1,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000124,POL_944151,617.0147070635195,71,M,Divorced,52882.0,Bachelor,Teacher,13,Luxury,Highway,0,1,1,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000125,POL_430776,7188.84,78,F,Widowed,42017.0,Master,Retired,9,Sports,City,0,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000126,POL_520651,178866.68117329624,29,M,Single,55997.0,PhD,Doctor,6,Luxury,City,1,1,6,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000127,POL_380746,674.65,20,F,Married,59723.0,High School,Business,16,Sports,Rural,0,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000128,POL_169403,1274.81,62,M,Widowed,74958.0,PhD,Teacher,5,Compact,Highway,1,1,3,"Collision with deer on rural highway, front end damage",0
+CLM_000129,POL_321231,3461.57,35,M,Single,51078.0,PhD,Teacher,3,Mid-size,Highway,0,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000130,POL_694731,1400.78,57,M,Married,108467.0,High School,Retired,16,Luxury,Highway,1,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000131,POL_852787,291.2,38,M,Divorced,56128.0,PhD,Student,8,Luxury,Highway,1,1,3,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000132,POL_429963,3303.85,32,F,Married,86850.0,High School,Retired,3,Mid-size,Rural,0,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000133,POL_322955,605.8,50,F,Widowed,20000.0,High School,Teacher,6,Luxury,Parking Lot,0,1,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000134,POL_787277,12804.677018129389,52,M,Divorced,76995.0,PhD,Doctor,1,Luxury,Highway,1,1,2,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000135,POL_623481,750.59,43,F,Single,46385.0,PhD,Student,16,Sports,Rural,1,0,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000136,POL_514850,30482.3,25,M,Divorced,20000.0,Bachelor,Retired,7,Sports,Parking Lot,0,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000137,POL_774079,920.69,53,M,Single,58411.0,Bachelor,Other,14,Mid-size,Parking Lot,1,1,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000138,POL_581141,1838.87,65,M,Single,43941.0,Master,Retired,14,Compact,Rural,0,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000139,POL_249811,10099.85,47,M,Married,61601.0,Master,Teacher,7,Luxury,Highway,1,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000140,POL_377746,470.46,40,F,Married,70222.0,PhD,Teacher,15,Compact,Parking Lot,1,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000141,POL_246413,10685.34789867401,59,M,Married,20217.0,High School,Business,18,Mid-size,Highway,0,1,4,Claiming luxury vehicle repairs for standard model car,1
+CLM_000142,POL_358607,21177.91,61,M,Widowed,70298.0,Master,Retired,10,Mid-size,Highway,1,0,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000143,POL_881177,267.41,31,F,Widowed,50130.0,PhD,Teacher,1,Sports,City,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000144,POL_688637,3932.19,31,M,Married,77057.0,Master,Other,16,Luxury,Highway,0,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000145,POL_665158,4402.04,19,M,Widowed,45897.0,High School,Engineer,15,Large,City,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000146,POL_375504,27508.34245081529,72,M,Divorced,40592.0,PhD,Student,14,Mid-size,Parking Lot,0,1,3,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000147,POL_883300,466.18,54,F,Divorced,50541.0,High School,Engineer,12,Luxury,Rural,0,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000148,POL_712982,411.3,22,M,Widowed,52037.0,PhD,Student,14,Compact,City,0,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000149,POL_549245,6521.84,55,F,Widowed,36744.0,Master,Other,3,Sports,Rural,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000150,POL_711878,4653.98,62,M,Divorced,40074.0,Bachelor,Retired,15,Compact,Parking Lot,0,1,0,"Collision with deer on rural highway, front end damage",0
+CLM_000151,POL_518801,11753.464824754597,58,M,Single,25462.0,Master,Business,11,Mid-size,Highway,1,0,3,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000152,POL_479580,5012.41,79,F,Divorced,41307.0,Master,Teacher,3,Mid-size,Parking Lot,1,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000153,POL_329974,1074.88,71,M,Divorced,63526.0,Bachelor,Teacher,2,Compact,Rural,1,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000154,POL_245051,4223.34,77,M,Widowed,47253.0,Bachelor,Teacher,16,Mid-size,Parking Lot,1,1,2,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000155,POL_634277,8844.837418146917,78,F,Divorced,70181.0,PhD,Retired,17,Luxury,Highway,1,0,2,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000156,POL_617488,1020.93,64,F,Widowed,46291.0,PhD,Student,17,Mid-size,Parking Lot,1,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000157,POL_195325,48955.24,31,F,Widowed,21370.0,High School,Other,16,Sports,Highway,1,1,0,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000158,POL_892495,6067.79,73,F,Married,61945.0,High School,Teacher,11,Luxury,City,0,1,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000159,POL_149405,499.22,56,F,Divorced,36528.0,Master,Engineer,3,Large,Rural,1,1,3,Theft of vehicle contents including electronics and personal items,0
+CLM_000160,POL_214975,22493.902680686268,42,M,Single,45333.0,Bachelor,Teacher,11,Mid-size,Highway,0,1,1,Multiple claims filed in short time period with similar circumstances,1
+CLM_000161,POL_260265,690.89,37,F,Married,74751.0,High School,Retired,19,Mid-size,Highway,1,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000162,POL_757924,9707.24,19,M,Widowed,26783.0,Master,Other,14,Sports,Parking Lot,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000163,POL_267753,16947.8,56,M,Widowed,53295.0,Bachelor,Business,15,Sports,City,0,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000164,POL_930555,870.42,23,M,Single,49190.0,PhD,Other,4,Compact,Highway,0,1,4,Theft of vehicle contents including electronics and personal items,0
+CLM_000165,POL_813536,12645.59,34,F,Widowed,64019.0,Master,Engineer,14,Compact,City,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000166,POL_542666,5536.8,76,F,Divorced,67103.0,PhD,Teacher,16,Compact,City,1,0,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000167,POL_725380,10230.11,42,M,Married,55277.0,High School,Teacher,17,Sports,Parking Lot,1,0,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000168,POL_166613,51286.84,74,F,Widowed,42793.0,High School,Doctor,4,Compact,Highway,1,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000169,POL_503457,2063.0,45,F,Widowed,59467.0,Bachelor,Student,12,Compact,Parking Lot,0,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000170,POL_500156,2646.6011984322718,19,F,Single,76713.0,Master,Engineer,18,Large,Rural,0,1,3,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000171,POL_724834,785.04,52,F,Divorced,49454.0,PhD,Doctor,12,Compact,Rural,1,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000172,POL_590785,876.8,54,M,Widowed,44655.0,Bachelor,Other,17,Mid-size,Highway,1,1,4,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000173,POL_654816,7683.913595493669,22,M,Single,57763.0,High School,Business,13,Sports,City,1,1,3,Exaggerated injury claims with inconsistent medical reports,1
+CLM_000174,POL_363626,4972.75,18,F,Widowed,50775.0,High School,Student,3,Luxury,Highway,0,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000175,POL_680099,4514.44,57,M,Single,23246.0,Master,Engineer,3,Large,Highway,1,1,3,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000176,POL_112038,10309.02,29,F,Single,54787.0,PhD,Teacher,19,Sports,Rural,1,1,3,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000177,POL_813328,3039.67,73,F,Divorced,23065.0,Master,Other,19,Sports,Rural,1,1,3,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000178,POL_855731,26378.41,53,M,Widowed,57490.0,PhD,Engineer,18,Mid-size,City,1,1,3,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000179,POL_220116,2004.23,62,M,Divorced,34057.0,PhD,Teacher,12,Compact,City,1,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000180,POL_814825,385862.9967220206,40,M,Single,50737.0,Master,Student,11,Mid-size,Highway,1,0,0,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000181,POL_663054,7619.77,64,F,Married,57812.0,Bachelor,Teacher,6,Compact,Parking Lot,0,0,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000182,POL_887352,824.08,48,M,Widowed,99078.0,Master,Business,11,Compact,Highway,0,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000183,POL_379786,598.04,28,F,Married,64855.0,Master,Other,3,Sports,City,1,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000184,POL_905934,6146.93,27,M,Widowed,77296.0,High School,Retired,1,Compact,Parking Lot,1,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000185,POL_772097,2131.98,20,M,Divorced,87435.0,High School,Teacher,1,Large,Rural,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000186,POL_456699,8699.33,71,F,Divorced,59785.0,Master,Business,4,Large,City,1,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000187,POL_216970,6062.37,31,F,Divorced,55714.0,Master,Retired,9,Large,City,1,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000188,POL_407757,2672.47,33,F,Divorced,28666.0,High School,Other,9,Sports,Parking Lot,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000189,POL_555884,2220.4196003324137,27,F,Divorced,47667.0,PhD,Student,8,Mid-size,City,0,1,2,Claiming luxury vehicle repairs for standard model car,1
+CLM_000190,POL_265840,307.27,46,F,Married,35538.0,Master,Student,12,Luxury,City,0,0,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000191,POL_575763,3642.6606904671444,27,F,Divorced,41979.0,Bachelor,Other,6,Compact,City,0,1,2,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000192,POL_103402,10770.84,29,F,Single,87413.0,Bachelor,Other,4,Luxury,City,1,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000193,POL_857168,8078.954606348242,47,F,Single,52292.0,Bachelor,Engineer,9,Mid-size,City,1,1,1,Claiming luxury vehicle repairs for standard model car,1
+CLM_000194,POL_854639,460.08,58,M,Married,32482.0,Master,Business,9,Mid-size,City,0,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000195,POL_376183,3865.21,18,F,Widowed,77491.0,PhD,Business,5,Sports,City,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000196,POL_624902,5313.34,22,F,Single,69106.0,PhD,Other,18,Large,City,0,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000197,POL_898975,791.72,37,M,Widowed,70153.0,High School,Doctor,7,Large,Rural,1,1,3,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000198,POL_287330,3754.04,25,F,Married,20000.0,Master,Doctor,0,Mid-size,City,1,1,4,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000199,POL_632342,3252.94,60,M,Widowed,88973.0,PhD,Retired,16,Sports,Rural,1,1,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000200,POL_211579,536.76,29,M,Widowed,38830.0,Master,Retired,6,Sports,Rural,0,0,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000201,POL_755674,5098.39,18,F,Widowed,65559.0,High School,Doctor,13,Compact,Highway,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000202,POL_412942,6913.12,74,M,Widowed,100476.0,High School,Other,16,Large,Highway,1,0,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000203,POL_982554,15132.15,71,F,Married,93107.0,High School,Other,8,Mid-size,Rural,0,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000204,POL_769987,43326.819656138745,37,M,Single,30449.0,Bachelor,Retired,16,Luxury,Rural,0,0,4,Inconsistent witness statements and conflicting accident details,1
+CLM_000205,POL_632323,377.47,45,M,Divorced,21110.0,Master,Teacher,4,Large,City,1,1,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000206,POL_738551,730.16,74,M,Widowed,78607.0,High School,Other,19,Compact,Highway,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000207,POL_308573,6454.63,60,F,Single,52841.0,Master,Doctor,7,Sports,Parking Lot,1,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000208,POL_260263,6442.54,54,F,Single,39982.0,Bachelor,Business,5,Mid-size,Highway,1,0,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000209,POL_492077,6454.75,64,M,Married,62424.0,Bachelor,Other,10,Large,Rural,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000210,POL_899550,1501768.988698417,54,M,Single,46742.0,High School,Other,18,Luxury,Rural,0,1,5,Multiple claims filed in short time period with similar circumstances,1
+CLM_000211,POL_269396,7018.72,29,F,Married,64026.0,High School,Teacher,3,Compact,City,0,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000212,POL_665579,16372.34,54,F,Widowed,51340.0,PhD,Retired,17,Compact,City,1,0,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000213,POL_916449,12469.02,66,M,Widowed,64448.0,Master,Other,0,Large,Highway,1,1,3,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000214,POL_656116,7919.53,66,M,Divorced,32109.0,High School,Student,12,Luxury,City,1,0,4,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000215,POL_100599,1857.7,73,F,Divorced,78489.0,PhD,Engineer,13,Compact,Parking Lot,1,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000216,POL_728038,9306.36,61,F,Divorced,63952.0,Master,Doctor,0,Mid-size,Parking Lot,1,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000217,POL_439902,935.2,73,F,Single,62926.0,High School,Student,10,Compact,City,1,1,0,"Collision with deer on rural highway, front end damage",0
+CLM_000218,POL_612340,2089.69,45,F,Widowed,27647.0,PhD,Retired,16,Luxury,Parking Lot,1,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000219,POL_120422,2509.3929750579446,64,F,Married,83993.0,PhD,Business,3,Sports,Parking Lot,1,1,4,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000220,POL_217301,3370.48,32,M,Divorced,49726.0,Master,Engineer,11,Sports,Highway,0,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000221,POL_480612,95988.9,23,F,Married,64561.0,PhD,Student,9,Large,Parking Lot,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000222,POL_972064,181.11,61,M,Married,43544.0,Master,Engineer,5,Luxury,Rural,0,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000223,POL_945964,8344.77,76,F,Divorced,55218.0,Master,Doctor,0,Compact,Rural,1,1,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000224,POL_422451,753.1940094404436,78,M,Widowed,55943.0,Master,Retired,6,Compact,Highway,1,1,3,Multiple claims filed in short time period with similar circumstances,1
+CLM_000225,POL_351083,1468.65,37,F,Divorced,20000.0,Bachelor,Other,15,Sports,City,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000226,POL_160738,15266.65,67,F,Married,61649.0,PhD,Business,13,Sports,Highway,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000227,POL_352572,3282.7,31,M,Divorced,89307.0,Master,Retired,19,Mid-size,City,0,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000228,POL_694916,591.93,19,M,Married,60796.0,High School,Engineer,19,Sports,City,0,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000229,POL_182582,1019.48,26,F,Married,30846.0,Bachelor,Student,5,Mid-size,City,1,0,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000230,POL_189814,8261.79,54,F,Divorced,62999.0,Bachelor,Doctor,4,Compact,City,1,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000231,POL_867460,996.7,37,F,Single,71190.0,PhD,Doctor,17,Mid-size,City,1,1,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000232,POL_609597,4124.45,43,F,Divorced,60249.0,Master,Retired,14,Mid-size,Highway,1,1,0,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000233,POL_955662,3191.86,46,F,Single,48517.0,PhD,Other,5,Large,City,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000234,POL_172574,1121.7,18,M,Married,45157.0,Bachelor,Student,18,Sports,Parking Lot,1,1,4,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000235,POL_897549,74303.71,72,M,Married,45074.0,Master,Other,0,Mid-size,Parking Lot,0,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000236,POL_658582,12272.838526785212,52,F,Single,63956.0,High School,Other,0,Compact,City,1,1,3,Multiple injuries reported for single occupant in low-speed accident,1
+CLM_000237,POL_903035,142.92,23,M,Married,21858.0,Master,Student,12,Luxury,Parking Lot,1,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000238,POL_231869,3942.94,54,M,Single,42563.0,Bachelor,Engineer,2,Mid-size,Rural,1,0,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000239,POL_234628,1104.69,70,M,Single,81912.0,High School,Retired,9,Sports,Highway,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000240,POL_791798,10706.97,76,F,Married,82684.0,Master,Retired,2,Large,Highway,1,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000241,POL_598369,907.98,22,M,Widowed,20437.0,High School,Teacher,8,Compact,City,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000242,POL_676510,7102.860929387994,50,F,Single,27372.0,High School,Retired,7,Large,City,0,0,0,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000243,POL_273148,6358.07,66,M,Divorced,44588.0,Bachelor,Doctor,2,Luxury,Rural,1,0,0,"Collision with deer on rural highway, front end damage",0
+CLM_000244,POL_377932,10923.07,68,F,Divorced,67852.0,High School,Engineer,12,Mid-size,City,1,0,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000245,POL_653306,492.53,31,M,Married,20000.0,PhD,Student,5,Mid-size,Parking Lot,0,0,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000246,POL_736059,1804.88,29,F,Widowed,48904.0,Bachelor,Retired,12,Sports,Rural,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000247,POL_543692,1462.03,59,F,Married,40516.0,PhD,Engineer,19,Mid-size,Parking Lot,1,1,3,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000248,POL_322086,1118.79,37,M,Widowed,76519.0,High School,Retired,19,Compact,Highway,1,1,4,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000249,POL_665492,42115.93,70,F,Single,20000.0,PhD,Student,11,Luxury,Parking Lot,0,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000250,POL_891952,14079.567008371347,67,F,Single,51851.0,Master,Business,12,Large,Highway,1,1,1,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000251,POL_865388,449.74,41,F,Single,42128.0,High School,Student,1,Luxury,Parking Lot,0,0,2,"Collision with deer on rural highway, front end damage",0
+CLM_000252,POL_823378,11811.07,76,F,Single,79396.0,Master,Student,15,Mid-size,Highway,0,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000253,POL_310922,71914.58,60,F,Divorced,61953.0,PhD,Student,5,Large,City,0,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000254,POL_847581,14026.42,79,F,Divorced,38284.0,Master,Retired,18,Sports,Parking Lot,1,0,4,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000255,POL_426858,305.19,51,F,Married,67068.0,High School,Teacher,12,Luxury,Highway,0,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000256,POL_518373,1441.8,42,F,Widowed,42223.0,Master,Student,16,Large,Parking Lot,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000257,POL_804314,19937.68,67,M,Single,69987.0,PhD,Doctor,8,Large,Rural,0,0,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000258,POL_781446,1031.22,46,M,Single,45258.0,PhD,Doctor,16,Large,City,1,0,6,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000259,POL_491559,9020.19271435794,74,F,Widowed,71093.0,PhD,Engineer,1,Compact,Highway,1,1,2,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000260,POL_559381,9527.63,56,F,Widowed,58722.0,High School,Teacher,18,Luxury,Rural,1,0,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000261,POL_642717,742.19,48,M,Married,115210.0,PhD,Engineer,18,Large,Parking Lot,1,1,4,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000262,POL_573417,2726.33,73,M,Widowed,48942.0,High School,Doctor,6,Luxury,Rural,1,0,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000263,POL_226882,23.06,64,M,Single,57657.0,Master,Other,9,Large,Parking Lot,1,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000264,POL_359947,1374.827216220361,60,F,Single,40412.0,PhD,Doctor,9,Sports,City,1,1,0,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000265,POL_335612,2040.9,67,M,Single,50054.0,Master,Business,19,Sports,Rural,0,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000266,POL_167136,458.67,40,F,Single,20000.0,Bachelor,Student,8,Sports,City,0,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000267,POL_454508,34496.63,61,F,Single,59312.0,Master,Other,16,Mid-size,Highway,0,1,3,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000268,POL_122056,348.9,55,M,Married,76857.0,Bachelor,Doctor,14,Large,Parking Lot,1,1,3,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000269,POL_716886,4054.434448654795,37,F,Single,57933.0,Master,Retired,1,Mid-size,Parking Lot,1,1,2,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000270,POL_680828,3626.82,40,F,Married,23723.0,High School,Retired,3,Luxury,City,1,0,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000271,POL_341292,25897.71,79,F,Single,33964.0,Master,Engineer,18,Mid-size,City,1,0,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000272,POL_717024,345.92,62,F,Divorced,20000.0,High School,Other,16,Luxury,Highway,1,1,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000273,POL_330914,17064.33,69,M,Divorced,69578.0,High School,Engineer,4,Luxury,Rural,1,1,6,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000274,POL_107540,3027.07,33,M,Divorced,29870.0,PhD,Student,6,Luxury,Parking Lot,1,1,3,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000275,POL_174441,683.85,67,F,Divorced,49426.0,High School,Student,17,Mid-size,Parking Lot,0,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000276,POL_842225,5961.96,59,F,Married,46925.0,Bachelor,Business,6,Large,Highway,1,1,4,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000277,POL_761759,4018.2,77,M,Married,79755.0,PhD,Teacher,16,Mid-size,Highway,0,1,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000278,POL_161733,1211.57,72,F,Widowed,51706.0,PhD,Engineer,6,Large,City,1,1,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000279,POL_340062,7860.092913191919,25,M,Single,66178.0,Master,Student,3,Large,City,0,0,2,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000280,POL_170674,1672.42,67,F,Divorced,60929.0,High School,Engineer,7,Luxury,Rural,1,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000281,POL_132938,3534.32,38,F,Married,77188.0,High School,Student,12,Mid-size,Highway,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000282,POL_446479,8048.14,18,M,Single,45218.0,Bachelor,Doctor,3,Large,Rural,0,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000283,POL_174299,32177.58,72,M,Single,87392.0,Master,Engineer,5,Sports,Highway,0,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000284,POL_639131,465.58,25,M,Married,20000.0,Master,Doctor,4,Large,Parking Lot,1,1,3,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000285,POL_349565,212261.17283690485,46,M,Divorced,67149.0,PhD,Engineer,11,Sports,Highway,1,1,1,Exaggerated injury claims with inconsistent medical reports,1
+CLM_000286,POL_392004,159.47,49,F,Widowed,32668.0,PhD,Teacher,3,Mid-size,Highway,1,0,5,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000287,POL_801474,2373.98,55,M,Single,40145.0,PhD,Business,8,Mid-size,Parking Lot,1,0,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000288,POL_608993,7204.61,22,F,Widowed,61388.0,Bachelor,Retired,3,Mid-size,Highway,1,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000289,POL_324643,12728.909229871406,64,M,Divorced,61228.0,Bachelor,Retired,18,Large,Rural,1,1,0,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000290,POL_665427,1171.4,39,M,Divorced,62129.0,PhD,Retired,13,Compact,City,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000291,POL_238739,4360.97611158199,64,F,Widowed,22277.0,Master,Doctor,4,Large,City,1,1,1,Inconsistent witness statements and conflicting accident details,1
+CLM_000292,POL_858490,1422.97,51,M,Divorced,78981.0,Bachelor,Other,17,Large,Rural,1,0,1,"Collision with deer on rural highway, front end damage",0
+CLM_000293,POL_698782,1231.46,18,M,Single,31987.0,Master,Student,9,Luxury,Parking Lot,1,1,4,Theft of vehicle contents including electronics and personal items,0
+CLM_000294,POL_704201,10661.59,72,M,Widowed,34654.0,Master,Retired,18,Luxury,Highway,1,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000295,POL_595631,8285.195989779091,72,M,Divorced,62758.0,High School,Teacher,11,Large,Rural,1,1,2,Exaggerated injury claims with inconsistent medical reports,1
+CLM_000296,POL_354801,1054.3,43,F,Widowed,44266.0,PhD,Retired,17,Sports,City,1,0,5,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000297,POL_922733,11491.92,60,F,Single,56165.0,High School,Engineer,16,Luxury,City,1,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000298,POL_595948,4726.54,27,M,Divorced,20000.0,PhD,Doctor,10,Large,Rural,1,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000299,POL_946721,10089.93,47,M,Single,55686.0,PhD,Other,2,Compact,City,0,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000300,POL_526833,7665.18,67,M,Divorced,54357.0,Master,Engineer,16,Sports,Rural,1,1,5,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000301,POL_299659,859.63,35,F,Married,39803.0,PhD,Other,0,Mid-size,City,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000302,POL_198907,1286.56,34,F,Divorced,20000.0,Master,Engineer,14,Large,Rural,0,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000303,POL_201639,9144.8,43,F,Widowed,45744.0,Master,Engineer,8,Large,Highway,1,0,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000304,POL_790993,7446.92,25,F,Divorced,49253.0,PhD,Business,14,Sports,Highway,1,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000305,POL_551989,2888.95,64,M,Single,42655.0,Master,Business,2,Luxury,Highway,0,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000306,POL_471507,3554.58,57,M,Single,20000.0,Master,Student,18,Luxury,Highway,1,1,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000307,POL_544154,20261.9,66,M,Divorced,81895.0,Master,Doctor,12,Luxury,City,1,0,4,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000308,POL_531071,1227.39,29,F,Widowed,37223.0,Bachelor,Teacher,11,Mid-size,Parking Lot,0,0,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000309,POL_589710,6772.64,44,M,Married,45556.0,Master,Teacher,19,Sports,Rural,0,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000310,POL_864491,2201.1,25,F,Widowed,20000.0,Bachelor,Teacher,0,Sports,Parking Lot,1,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000311,POL_156802,2150.55,42,F,Married,81897.0,Bachelor,Engineer,16,Luxury,City,1,1,3,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000312,POL_806073,15493.34,63,M,Single,40669.0,Master,Business,12,Luxury,City,0,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000313,POL_785197,10281.74,21,M,Widowed,51969.0,Master,Doctor,0,Compact,Parking Lot,1,1,3,Theft of vehicle contents including electronics and personal items,0
+CLM_000314,POL_777568,10099.73,50,M,Married,72415.0,Bachelor,Engineer,9,Compact,Parking Lot,1,0,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000315,POL_203198,21125.12,18,F,Divorced,36474.0,Bachelor,Other,14,Large,City,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000316,POL_163556,3076.37,36,F,Single,69265.0,Master,Business,6,Large,City,1,1,3,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000317,POL_522179,8291.03,48,M,Divorced,20000.0,Master,Business,17,Sports,Rural,1,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000318,POL_863587,1871.7,33,M,Single,61020.0,PhD,Retired,15,Sports,Highway,1,1,0,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000319,POL_455784,4847.65,31,F,Widowed,81445.0,Bachelor,Retired,13,Mid-size,Highway,0,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000320,POL_939482,2452.31,70,M,Widowed,38392.0,Bachelor,Doctor,17,Mid-size,Rural,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000321,POL_214576,3447.81,65,F,Single,72378.0,PhD,Other,6,Compact,Parking Lot,1,0,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000322,POL_360735,7278.9,22,F,Single,86678.0,Bachelor,Doctor,16,Large,City,0,1,4,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000323,POL_300896,873.64,58,M,Single,44903.0,High School,Doctor,17,Compact,Parking Lot,1,1,2,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000324,POL_299448,68773.99,43,M,Widowed,43249.0,Bachelor,Engineer,11,Compact,Highway,1,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000325,POL_662336,659.17,79,M,Married,32034.0,PhD,Student,7,Large,Highway,1,0,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000326,POL_570405,482.37,45,M,Divorced,39805.0,High School,Doctor,1,Mid-size,Parking Lot,1,0,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000327,POL_246991,16935.48,19,F,Divorced,33693.0,Master,Retired,6,Large,Highway,0,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000328,POL_542374,9774.13,67,F,Widowed,32018.0,PhD,Student,3,Luxury,City,1,1,4,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000329,POL_292401,7602.1,23,F,Divorced,73977.0,PhD,Engineer,17,Luxury,Rural,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000330,POL_392075,7650.44,26,M,Single,34201.0,Master,Student,5,Luxury,Parking Lot,0,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000331,POL_585100,2926.7,50,F,Married,55170.0,PhD,Teacher,8,Sports,City,1,1,4,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000332,POL_361941,775.97,58,M,Divorced,50765.0,Bachelor,Other,8,Mid-size,City,1,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000333,POL_179046,3339.94,42,M,Married,79962.0,Master,Student,13,Mid-size,Highway,0,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000334,POL_564656,1079.5,65,M,Single,39937.0,PhD,Doctor,7,Sports,City,1,1,4,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000335,POL_947272,12870.33,30,M,Divorced,57623.0,Master,Engineer,18,Compact,Parking Lot,1,1,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000336,POL_997546,2390.87,26,M,Widowed,65821.0,Master,Other,2,Luxury,City,0,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000337,POL_677057,864.16,70,M,Married,79795.0,Master,Doctor,17,Luxury,Rural,1,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000338,POL_202664,1840.74,30,F,Single,39645.0,High School,Other,4,Compact,City,1,0,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000339,POL_153045,5538.05,48,M,Married,37642.0,PhD,Retired,13,Large,City,1,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000340,POL_783823,1279.74,58,F,Divorced,28764.0,High School,Teacher,3,Large,Rural,0,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000341,POL_666847,868.41,28,F,Divorced,94726.0,PhD,Retired,6,Mid-size,City,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000342,POL_976638,4296.39,21,M,Widowed,77689.0,Bachelor,Doctor,19,Sports,City,0,1,0,"Collision with deer on rural highway, front end damage",0
+CLM_000343,POL_115474,4304.64,51,M,Single,49156.0,Bachelor,Doctor,11,Mid-size,Highway,1,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000344,POL_197793,1393.52,78,M,Single,88629.0,Bachelor,Doctor,1,Large,Parking Lot,1,0,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000345,POL_890170,1470.62,55,F,Widowed,47963.0,PhD,Business,10,Compact,Highway,1,0,3,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000346,POL_989921,4222.05,63,M,Widowed,64488.0,Master,Teacher,13,Mid-size,Parking Lot,0,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000347,POL_347861,339.64,21,F,Single,50203.0,Master,Other,15,Luxury,Rural,1,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000348,POL_274389,360.97,55,M,Married,57956.0,High School,Doctor,19,Luxury,Rural,0,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000349,POL_526156,1014.69,36,M,Married,55835.0,High School,Doctor,5,Compact,Rural,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000350,POL_609231,2164.25,23,F,Widowed,41500.0,Bachelor,Other,3,Large,Parking Lot,1,1,3,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000351,POL_604740,4752.19,51,F,Married,71850.0,High School,Retired,14,Luxury,Parking Lot,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000352,POL_324130,27256.15,35,M,Single,64319.0,PhD,Retired,0,Luxury,Parking Lot,1,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000353,POL_520521,10791.23,30,F,Divorced,70554.0,PhD,Doctor,6,Sports,Rural,1,0,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000354,POL_161483,2345.12,58,F,Divorced,56405.0,High School,Engineer,11,Mid-size,Parking Lot,1,1,4,Theft of vehicle contents including electronics and personal items,0
+CLM_000355,POL_272634,2897.13,40,F,Married,31869.0,High School,Business,9,Large,City,1,0,3,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000356,POL_497382,662.62,36,F,Widowed,84188.0,High School,Retired,4,Mid-size,Highway,1,0,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000357,POL_102260,2899.32,62,F,Widowed,44749.0,High School,Engineer,11,Large,Rural,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000358,POL_509386,1933.35,28,M,Widowed,57281.0,Bachelor,Business,17,Luxury,Highway,1,0,2,"Collision with deer on rural highway, front end damage",0
+CLM_000359,POL_378085,4837.13,18,M,Widowed,62708.0,Bachelor,Doctor,9,Sports,City,0,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000360,POL_922157,861.91,41,F,Widowed,57148.0,High School,Teacher,5,Mid-size,Parking Lot,1,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000361,POL_923267,6496.51,79,M,Married,68308.0,PhD,Student,11,Luxury,Highway,1,1,3,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000362,POL_577110,29706.12,71,M,Divorced,71468.0,Bachelor,Student,6,Large,City,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000363,POL_399105,2532.24,24,F,Divorced,45503.0,PhD,Doctor,17,Mid-size,City,1,0,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000364,POL_543555,15881.527530352727,42,M,Married,82509.0,Master,Retired,1,Mid-size,Highway,0,1,5,Exaggerated injury claims with inconsistent medical reports,1
+CLM_000365,POL_830429,19103.08800579469,38,F,Widowed,44662.0,PhD,Engineer,9,Luxury,Rural,1,1,5,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000366,POL_865990,1632.99,32,F,Married,56735.0,High School,Teacher,14,Mid-size,Highway,1,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000367,POL_921414,6723.499753497826,18,M,Divorced,42246.0,Master,Other,11,Sports,Rural,1,0,2,Multiple claims filed in short time period with similar circumstances,1
+CLM_000368,POL_682765,8277.59009739423,29,F,Single,36531.0,Bachelor,Business,16,Sports,Parking Lot,1,1,1,Claiming pre-existing damage as accident-related repairs,1
+CLM_000369,POL_794022,9673.248656205917,75,F,Married,70884.0,Bachelor,Doctor,3,Luxury,Rural,1,0,0,Multiple claims filed in short time period with similar circumstances,1
+CLM_000370,POL_853305,934.94,24,F,Widowed,112438.0,Master,Teacher,6,Large,Parking Lot,0,1,3,Theft of vehicle contents including electronics and personal items,0
+CLM_000371,POL_610311,3092.59,32,F,Divorced,42765.0,PhD,Teacher,8,Luxury,Highway,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000372,POL_262316,15472.324152485617,38,F,Divorced,74306.0,Bachelor,Retired,18,Sports,Parking Lot,1,0,2,Multiple injuries reported for single occupant in low-speed accident,1
+CLM_000373,POL_299122,26283.99,36,M,Divorced,43482.0,High School,Business,6,Compact,City,0,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000374,POL_411120,12567.96,77,M,Divorced,49790.0,Master,Teacher,1,Compact,Parking Lot,1,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000375,POL_328275,75340.54,46,F,Widowed,85152.0,High School,Retired,5,Mid-size,Rural,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000376,POL_161324,942.92,42,F,Single,28529.0,Master,Engineer,17,Mid-size,Rural,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000377,POL_707314,11031.18,50,M,Divorced,23237.0,Bachelor,Retired,5,Compact,Rural,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000378,POL_871476,3924.57,66,F,Married,48256.0,PhD,Engineer,12,Sports,Parking Lot,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000379,POL_668532,172821.34507092013,49,M,Single,63273.0,Master,Engineer,18,Mid-size,Rural,1,0,5,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000380,POL_163918,886.74,66,F,Divorced,59273.0,Master,Other,1,Luxury,Rural,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000381,POL_884309,2109.07315928195,52,F,Single,57214.0,High School,Other,11,Luxury,City,1,0,1,Multiple injuries reported for single occupant in low-speed accident,1
+CLM_000382,POL_428838,1213.07,61,F,Married,50683.0,Bachelor,Teacher,14,Sports,Parking Lot,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000383,POL_159942,315.4975479880492,55,F,Divorced,65731.0,High School,Retired,13,Mid-size,City,0,1,1,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000384,POL_152578,1354.74,43,F,Married,20000.0,Bachelor,Other,5,Luxury,Rural,1,1,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000385,POL_712554,954.61,28,F,Widowed,34984.0,High School,Engineer,17,Mid-size,Rural,1,1,4,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000386,POL_599948,10606.637390005888,52,F,Divorced,48128.0,Master,Other,4,Mid-size,Rural,1,1,4,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000387,POL_627276,4977.26,25,M,Divorced,64091.0,High School,Business,17,Luxury,Parking Lot,0,1,4,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000388,POL_994141,49724.66,63,M,Divorced,79795.0,PhD,Teacher,2,Compact,Highway,1,1,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000389,POL_656926,36385.71630191701,31,M,Divorced,32298.0,Bachelor,Retired,2,Luxury,Rural,0,1,7,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000390,POL_265080,1254.69,27,F,Widowed,79142.0,Bachelor,Retired,9,Sports,Rural,1,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000391,POL_159642,774.62,19,F,Divorced,40949.0,Master,Student,18,Large,Rural,1,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000392,POL_632496,6234.66,63,F,Single,47402.0,Bachelor,Retired,2,Luxury,Rural,0,0,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000393,POL_184002,411.43,26,F,Divorced,61629.0,PhD,Teacher,11,Mid-size,Parking Lot,1,1,4,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000394,POL_992697,105621.84070100734,20,F,Widowed,45935.0,High School,Business,15,Mid-size,Highway,0,1,3,Multiple injuries reported for single occupant in low-speed accident,1
+CLM_000395,POL_294851,17486.08,38,F,Divorced,72202.0,Master,Retired,16,Luxury,Highway,1,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000396,POL_171849,1474.74,43,F,Single,41908.0,PhD,Student,6,Large,Highway,1,1,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000397,POL_723939,228.22,25,M,Widowed,42209.0,Bachelor,Teacher,12,Luxury,Rural,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000398,POL_171262,61280.90457091799,65,F,Widowed,71040.0,Bachelor,Engineer,1,Large,Rural,1,1,3,Claiming pre-existing damage as accident-related repairs,1
+CLM_000399,POL_808011,7397.498248755495,19,M,Single,34738.0,PhD,Doctor,3,Large,Highway,0,1,1,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000400,POL_346629,32959.41178136144,23,M,Single,54979.0,High School,Doctor,9,Sports,Highway,1,1,2,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000401,POL_523389,272.7,45,F,Single,20000.0,High School,Engineer,6,Mid-size,Rural,0,1,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000402,POL_225710,1852.8913327360478,70,F,Single,86393.0,Master,Other,16,Mid-size,Rural,1,1,3,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000403,POL_697347,3004.5,46,M,Single,74131.0,Bachelor,Retired,19,Large,City,0,1,4,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000404,POL_358175,3198.61,43,M,Widowed,105002.0,PhD,Doctor,5,Mid-size,City,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000405,POL_707040,1517.62,42,F,Widowed,76767.0,High School,Other,18,Compact,City,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000406,POL_723398,7587.63,29,F,Divorced,27407.0,Master,Doctor,4,Large,Highway,1,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000407,POL_141672,600.98,22,M,Divorced,63373.0,Bachelor,Engineer,9,Mid-size,Parking Lot,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000408,POL_749468,2407.71,51,F,Married,31640.0,Bachelor,Retired,8,Compact,Rural,1,1,3,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000409,POL_185965,3570.44,65,F,Divorced,81561.0,Master,Retired,12,Sports,City,0,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000410,POL_539589,6448.86,54,F,Divorced,27977.0,Master,Other,18,Mid-size,Parking Lot,0,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000411,POL_789305,8668.25,32,M,Single,27017.0,High School,Engineer,5,Compact,Rural,1,1,3,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000412,POL_712024,551.72,61,M,Single,20000.0,PhD,Other,3,Luxury,Parking Lot,1,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000413,POL_692683,836.8845982060091,53,M,Divorced,40232.0,Bachelor,Retired,2,Luxury,Highway,1,1,5,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000414,POL_648177,20262.26,32,F,Married,36210.0,PhD,Retired,2,Compact,Highway,0,1,4,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000415,POL_431737,4907.26,60,F,Single,24767.0,Bachelor,Teacher,3,Large,Highway,1,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000416,POL_373432,1739.0689125746228,65,M,Divorced,89796.0,Bachelor,Other,4,Large,City,0,1,3,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000417,POL_314181,47752.87177464741,40,M,Divorced,60598.0,PhD,Teacher,7,Mid-size,Rural,1,1,6,Claiming luxury vehicle repairs for standard model car,1
+CLM_000418,POL_802258,3545.77,23,M,Widowed,58245.0,Master,Engineer,15,Luxury,Highway,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000419,POL_850981,17482.33,63,F,Married,81783.0,High School,Business,2,Large,City,0,1,2,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000420,POL_429445,3298.68,67,M,Widowed,55125.0,Bachelor,Doctor,11,Large,City,1,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000421,POL_350280,65586.29,61,M,Married,35026.0,Master,Teacher,7,Luxury,City,1,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000422,POL_378517,41481.85,76,F,Single,20000.0,Bachelor,Doctor,12,Sports,City,1,1,0,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000423,POL_515011,2051.97,60,F,Married,33899.0,High School,Student,3,Large,Highway,0,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000424,POL_237235,22277.326131435908,62,F,Divorced,80108.0,Bachelor,Engineer,13,Compact,City,1,1,2,Multiple claims filed in short time period with similar circumstances,1
+CLM_000425,POL_804318,7848.39,38,M,Divorced,24893.0,High School,Business,13,Mid-size,Highway,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000426,POL_776856,23224.14,40,F,Married,57063.0,High School,Student,12,Large,Highway,1,0,2,"Collision with deer on rural highway, front end damage",0
+CLM_000427,POL_414569,701.07,60,F,Married,70679.0,Bachelor,Student,5,Large,City,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000428,POL_579434,8342.16,72,M,Married,55707.0,Bachelor,Retired,16,Sports,Highway,0,1,3,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000429,POL_431535,14583.36,33,F,Widowed,57980.0,High School,Student,3,Compact,Rural,0,1,3,Theft of vehicle contents including electronics and personal items,0
+CLM_000430,POL_888387,213.13,64,M,Married,63112.0,Master,Engineer,7,Mid-size,Rural,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000431,POL_176066,505.28,70,M,Single,57586.0,PhD,Teacher,16,Large,Parking Lot,0,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000432,POL_109767,139.93,77,F,Widowed,82181.0,High School,Engineer,2,Mid-size,Rural,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000433,POL_580547,1990.0,32,F,Widowed,29194.0,Bachelor,Teacher,16,Luxury,Highway,1,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000434,POL_751332,8745.66,42,F,Married,54808.0,Bachelor,Student,8,Large,Highway,1,0,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000435,POL_690341,28382.71,53,F,Single,20000.0,Master,Student,1,Large,Rural,0,1,3,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000436,POL_204837,6916.519099528902,28,F,Widowed,20000.0,PhD,Business,12,Luxury,City,1,1,6,Exaggerated injury claims with inconsistent medical reports,1
+CLM_000437,POL_176819,34300.78,68,F,Divorced,48367.0,High School,Teacher,19,Sports,City,1,1,3,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000438,POL_663750,376.1,32,M,Widowed,60868.0,High School,Student,1,Large,Highway,0,0,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000439,POL_323508,423.53632676221457,21,M,Married,82613.0,PhD,Retired,19,Mid-size,City,1,0,4,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000440,POL_630458,2742.65,38,F,Single,98396.0,High School,Doctor,10,Compact,Parking Lot,1,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000441,POL_378082,5303.37,30,M,Married,76397.0,PhD,Business,14,Mid-size,Parking Lot,1,0,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000442,POL_238890,2838.29,39,F,Divorced,64543.0,Bachelor,Engineer,10,Sports,Rural,1,0,3,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000443,POL_465962,262.61050390686364,36,M,Divorced,53199.0,PhD,Business,2,Compact,Rural,0,1,3,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000444,POL_172132,7727.202182140484,51,M,Divorced,20000.0,High School,Doctor,2,Mid-size,City,1,1,2,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000445,POL_356150,421.28,31,M,Married,47079.0,PhD,Teacher,11,Mid-size,Highway,1,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000446,POL_487477,20810.02471173017,78,F,Widowed,75808.0,Master,Engineer,4,Luxury,Rural,1,0,2,Claiming pre-existing damage as accident-related repairs,1
+CLM_000447,POL_398830,5166.22,21,M,Married,67966.0,Bachelor,Engineer,19,Sports,Parking Lot,1,0,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000448,POL_265409,727.91,65,F,Single,24273.0,Bachelor,Teacher,6,Luxury,Rural,1,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000449,POL_559469,1379.12,70,M,Widowed,62281.0,PhD,Other,6,Compact,Rural,1,1,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000450,POL_974244,608.61,69,M,Divorced,60568.0,High School,Other,12,Luxury,Parking Lot,0,0,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000451,POL_669605,2713.46,63,M,Married,56998.0,Master,Business,8,Sports,Highway,0,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000452,POL_837715,12490.37,44,M,Divorced,49443.0,Bachelor,Student,12,Large,Rural,1,1,3,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000453,POL_417212,679.54,46,M,Divorced,63312.0,Bachelor,Other,11,Large,Rural,0,1,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000454,POL_741390,16306.340435654549,64,F,Single,63946.0,High School,Business,12,Compact,Rural,1,1,4,Inconsistent witness statements and conflicting accident details,1
+CLM_000455,POL_946305,1345.62,45,F,Widowed,37171.0,High School,Other,9,Large,City,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000456,POL_785743,1490.140466348385,52,M,Single,59100.0,Master,Doctor,0,Luxury,Rural,1,1,3,Claiming luxury vehicle repairs for standard model car,1
+CLM_000457,POL_654634,2538.82,25,M,Single,46212.0,PhD,Retired,7,Compact,Parking Lot,1,1,4,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000458,POL_108203,630.89,33,M,Single,20255.0,High School,Student,15,Sports,Highway,0,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000459,POL_800305,1299.23,59,M,Divorced,38768.0,PhD,Business,12,Compact,Highway,0,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000460,POL_956795,494.32,53,F,Single,20000.0,Master,Retired,2,Compact,Parking Lot,1,1,3,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000461,POL_681542,56788.42,47,M,Single,69602.0,PhD,Retired,2,Mid-size,City,1,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000462,POL_413921,3142.88,35,F,Widowed,57118.0,Bachelor,Other,4,Mid-size,Parking Lot,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000463,POL_795613,1043.58,19,M,Widowed,42890.0,PhD,Teacher,10,Compact,Highway,1,0,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000464,POL_208618,10676.152043059823,66,F,Single,78410.0,Master,Doctor,6,Large,Parking Lot,0,1,4,Claiming pre-existing damage as accident-related repairs,1
+CLM_000465,POL_240814,2518.72,30,M,Widowed,51360.0,Master,Doctor,9,Mid-size,City,1,0,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000466,POL_377312,2139.97,21,M,Widowed,21376.0,Master,Doctor,9,Sports,Highway,1,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000467,POL_221035,7489.45,43,F,Single,41210.0,PhD,Student,19,Luxury,City,0,0,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000468,POL_212235,9285.99,42,M,Divorced,82657.0,Bachelor,Engineer,1,Mid-size,Parking Lot,1,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000469,POL_878480,1345.13,47,M,Single,36610.0,High School,Student,2,Compact,Rural,1,0,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000470,POL_680097,1256.74,28,M,Widowed,55504.0,Bachelor,Business,7,Large,Parking Lot,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000471,POL_262998,1973.22,24,F,Divorced,64878.0,PhD,Retired,10,Luxury,City,0,1,3,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000472,POL_385577,94.36,48,M,Married,61799.0,PhD,Retired,12,Mid-size,Parking Lot,1,1,6,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000473,POL_395442,307.11,61,M,Divorced,98989.0,High School,Engineer,6,Large,Rural,0,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000474,POL_734210,23163.0,27,F,Widowed,26474.0,PhD,Business,12,Large,City,0,1,3,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000475,POL_320861,35152.52,56,F,Divorced,28471.0,Master,Engineer,1,Large,Parking Lot,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000476,POL_852470,2051.75,30,F,Single,26805.0,Master,Retired,5,Compact,City,1,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000477,POL_459536,7078.63,48,M,Married,44082.0,Master,Other,8,Sports,City,1,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000478,POL_313487,12404.934208863917,24,M,Married,71988.0,Master,Student,19,Large,Highway,1,1,0,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000479,POL_820892,302041.96,73,M,Married,29365.0,Master,Doctor,1,Luxury,Highway,0,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000480,POL_765046,15984.3,66,F,Widowed,72267.0,PhD,Retired,17,Mid-size,City,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000481,POL_994343,6125.728822859555,59,M,Widowed,50703.0,High School,Teacher,15,Luxury,Parking Lot,0,1,1,Multiple claims filed in short time period with similar circumstances,1
+CLM_000482,POL_376807,711.01,78,M,Married,27820.0,High School,Doctor,11,Compact,Parking Lot,0,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000483,POL_629959,267.82,59,F,Divorced,20000.0,Master,Retired,6,Compact,Parking Lot,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000484,POL_612262,4044.83,73,F,Married,20000.0,PhD,Student,6,Luxury,Rural,1,1,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000485,POL_363319,958.6,53,F,Divorced,36683.0,Bachelor,Engineer,16,Sports,City,0,1,0,"Collision with deer on rural highway, front end damage",0
+CLM_000486,POL_987204,353.05,37,F,Divorced,46617.0,Bachelor,Other,12,Compact,City,1,1,3,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000487,POL_153266,1130.19,21,F,Widowed,76921.0,PhD,Other,10,Compact,Rural,0,1,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000488,POL_196781,588.56,71,M,Divorced,65982.0,Master,Doctor,5,Luxury,City,0,0,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000489,POL_765095,37448.14,24,F,Married,33221.0,High School,Student,13,Compact,City,1,0,3,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000490,POL_544151,11186.46,71,M,Widowed,58173.0,PhD,Other,5,Sports,Rural,0,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000491,POL_969634,2945.52,18,M,Single,83031.0,Bachelor,Other,5,Sports,Highway,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000492,POL_390120,27444.37,61,F,Single,87478.0,Bachelor,Business,1,Sports,City,0,1,4,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000493,POL_146228,3347.78,73,F,Widowed,43712.0,Bachelor,Teacher,19,Mid-size,Rural,1,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000494,POL_103717,1509.1155630889496,62,F,Married,69166.0,Master,Doctor,14,Sports,Parking Lot,0,1,3,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000495,POL_449759,29280.77,59,M,Single,77799.0,Bachelor,Engineer,16,Sports,Highway,0,1,3,Theft of vehicle contents including electronics and personal items,0
+CLM_000496,POL_908577,6689.97,64,F,Single,20000.0,PhD,Other,7,Mid-size,Parking Lot,1,1,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000497,POL_237174,1342.6346349640414,76,F,Divorced,39752.0,PhD,Business,4,Large,City,1,1,6,Inconsistent witness statements and conflicting accident details,1
+CLM_000498,POL_768061,2240.58,30,F,Divorced,94400.0,Bachelor,Student,16,Compact,Highway,0,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000499,POL_374680,801.57,72,F,Married,43979.0,PhD,Other,19,Sports,Rural,1,1,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000500,POL_269430,1037.3673515852224,39,F,Widowed,20000.0,Bachelor,Teacher,0,Compact,City,1,1,1,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000501,POL_877236,11959.32,71,M,Married,47581.0,Bachelor,Engineer,17,Luxury,Rural,1,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000502,POL_563298,52267.23,38,M,Widowed,72493.0,High School,Student,14,Compact,Highway,1,1,4,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000503,POL_678478,365.82,39,M,Single,50130.0,Master,Student,4,Mid-size,Parking Lot,0,0,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000504,POL_839945,6935.82,45,F,Divorced,64307.0,Master,Doctor,6,Compact,City,1,1,0,"Collision with deer on rural highway, front end damage",0
+CLM_000505,POL_548462,1123.31,26,F,Married,68764.0,High School,Other,17,Compact,City,1,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000506,POL_688153,1435.56,43,F,Married,42901.0,High School,Doctor,5,Compact,Rural,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000507,POL_110139,1225.87,26,M,Widowed,39612.0,Master,Engineer,4,Large,Highway,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000508,POL_217308,815.67,32,F,Widowed,53069.0,Bachelor,Other,18,Large,Rural,1,1,3,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000509,POL_178898,3206.01,27,F,Married,53556.0,Bachelor,Retired,9,Luxury,Highway,1,1,0,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000510,POL_824586,857.12,41,F,Widowed,51082.0,Master,Other,14,Mid-size,City,1,0,4,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000511,POL_256294,4472.42,75,M,Married,51903.0,Bachelor,Retired,9,Compact,Highway,1,1,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000512,POL_672092,2764.58,74,F,Married,35029.0,High School,Student,15,Compact,City,0,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000513,POL_137778,2083.03,78,M,Married,65006.0,Bachelor,Doctor,11,Compact,Highway,1,0,2,"Collision with deer on rural highway, front end damage",0
+CLM_000514,POL_975136,764.07,59,F,Single,61985.0,Bachelor,Teacher,17,Compact,Parking Lot,0,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000515,POL_487151,1254.94,25,M,Widowed,23280.0,PhD,Other,0,Large,Highway,1,1,4,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000516,POL_710805,9256.55,41,M,Divorced,42217.0,PhD,Teacher,15,Luxury,Parking Lot,1,1,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000517,POL_679364,15831.958158633852,33,M,Divorced,51862.0,PhD,Other,5,Sports,Highway,1,0,1,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000518,POL_255287,687.92,66,F,Widowed,39314.0,Bachelor,Student,2,Mid-size,Highway,1,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000519,POL_550664,3459.91,43,F,Married,62747.0,Master,Doctor,1,Compact,Rural,0,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000520,POL_233636,9201.12,44,M,Divorced,48662.0,High School,Engineer,1,Luxury,Rural,0,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000521,POL_143860,243.69,54,M,Divorced,53381.0,Bachelor,Engineer,12,Sports,City,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000522,POL_423232,6734.78,21,F,Widowed,41986.0,Master,Engineer,8,Luxury,Rural,0,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000523,POL_482364,1103.3,67,F,Divorced,20000.0,Bachelor,Other,15,Large,Highway,1,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000524,POL_934794,7015.65,41,M,Married,20000.0,High School,Other,4,Sports,Rural,1,0,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000525,POL_141832,948.72,36,F,Widowed,61792.0,Bachelor,Teacher,6,Luxury,Highway,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000526,POL_475190,516.9195988571709,53,F,Married,55338.0,High School,Doctor,12,Large,Parking Lot,1,1,1,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000527,POL_320281,259.48,77,F,Divorced,58773.0,Bachelor,Other,19,Luxury,Highway,1,1,4,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000528,POL_815198,3203.91,56,F,Divorced,52689.0,High School,Doctor,12,Luxury,City,1,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000529,POL_361650,4400.99,27,M,Married,54291.0,Bachelor,Teacher,6,Sports,Parking Lot,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000530,POL_799330,1828.1790966248939,42,F,Single,69380.0,High School,Other,9,Large,City,1,1,1,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000531,POL_207786,16892.62696995519,35,F,Divorced,58892.0,PhD,Engineer,14,Compact,City,1,1,2,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000532,POL_470858,246.59,36,M,Single,70818.0,Bachelor,Engineer,5,Mid-size,City,0,1,3,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000533,POL_918011,2699.66,53,M,Divorced,53429.0,Bachelor,Student,4,Sports,Rural,0,0,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000534,POL_687080,484.67,27,F,Single,43992.0,Master,Retired,1,Large,City,1,1,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000535,POL_526117,1121.3,50,F,Single,53884.0,Master,Business,14,Luxury,Parking Lot,1,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000536,POL_750810,3200.61,72,F,Single,33276.0,High School,Retired,15,Large,Highway,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000537,POL_885884,820.06,67,F,Married,42403.0,Bachelor,Other,18,Mid-size,City,1,1,3,Theft of vehicle contents including electronics and personal items,0
+CLM_000538,POL_262060,1674.33,22,M,Single,53551.0,High School,Doctor,8,Mid-size,Parking Lot,1,0,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000539,POL_348237,35584.99770019403,64,M,Single,53286.0,PhD,Other,18,Compact,City,1,0,2,Claiming luxury vehicle repairs for standard model car,1
+CLM_000540,POL_270395,2009.9057978153198,66,M,Single,47872.0,Master,Doctor,6,Compact,Highway,1,1,1,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000541,POL_938742,10441.44,52,F,Divorced,22236.0,High School,Doctor,3,Mid-size,Parking Lot,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000542,POL_950155,547.54,61,F,Single,62728.0,High School,Retired,2,Sports,Parking Lot,1,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000543,POL_285652,16562.333656467265,51,F,Divorced,66685.0,Master,Business,19,Sports,Highway,1,1,3,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000544,POL_532322,25909.19,50,F,Single,82874.0,Bachelor,Student,10,Luxury,Parking Lot,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000545,POL_125990,73.15,72,M,Single,58836.0,High School,Retired,0,Compact,Highway,0,0,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000546,POL_288073,902.04,38,M,Married,50029.0,Master,Business,5,Luxury,Parking Lot,1,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000547,POL_872343,7084.1,34,F,Divorced,29739.0,Bachelor,Engineer,10,Compact,Parking Lot,0,1,0,"Collision with deer on rural highway, front end damage",0
+CLM_000548,POL_448321,2198.28,39,M,Single,79840.0,PhD,Engineer,0,Mid-size,Highway,1,1,3,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000549,POL_920391,15582.958493986522,65,F,Divorced,54957.0,Master,Doctor,6,Sports,Highway,1,0,2,Exaggerated injury claims with inconsistent medical reports,1
+CLM_000550,POL_531712,1204.74,54,F,Divorced,53867.0,High School,Teacher,5,Sports,Parking Lot,1,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000551,POL_941204,3394.41,32,M,Widowed,44919.0,PhD,Other,13,Mid-size,Parking Lot,1,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000552,POL_802448,2360.16,52,F,Married,43641.0,Bachelor,Other,1,Luxury,Highway,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000553,POL_870763,17182.95,45,F,Married,63765.0,Bachelor,Doctor,3,Luxury,Rural,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000554,POL_950132,4366.13,24,M,Married,29571.0,Master,Teacher,10,Large,Highway,0,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000555,POL_360222,4946.34,49,F,Widowed,82509.0,Master,Business,14,Compact,Parking Lot,1,0,5,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000556,POL_379766,1607.1,28,F,Widowed,78151.0,Master,Engineer,17,Luxury,Parking Lot,0,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000557,POL_266931,1434.53,27,M,Married,42919.0,Bachelor,Other,0,Mid-size,Parking Lot,0,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000558,POL_925622,1558.01,26,F,Widowed,32723.0,PhD,Retired,2,Luxury,Highway,1,0,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000559,POL_835343,5386.65,31,M,Widowed,20000.0,Bachelor,Teacher,2,Sports,Parking Lot,1,0,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000560,POL_213346,1585.29,30,F,Widowed,24972.0,High School,Business,6,Compact,Rural,1,0,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000561,POL_501124,4603.91,78,M,Married,64598.0,Bachelor,Engineer,0,Large,City,1,0,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000562,POL_140605,67043.79,74,M,Married,56307.0,High School,Retired,10,Compact,Rural,1,1,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000563,POL_593554,11011.41,79,M,Married,59873.0,PhD,Teacher,5,Sports,Highway,0,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000564,POL_333238,1827.98,42,F,Widowed,20000.0,Master,Doctor,19,Sports,Parking Lot,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000565,POL_309267,48243.049972269655,19,M,Married,42084.0,Master,Doctor,2,Sports,Highway,1,1,4,Claiming pre-existing damage as accident-related repairs,1
+CLM_000566,POL_956253,1616.29,52,M,Widowed,77345.0,Bachelor,Doctor,18,Sports,City,1,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000567,POL_582662,140.16,24,M,Single,48079.0,Master,Other,1,Mid-size,Highway,0,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000568,POL_466643,657.12,38,M,Widowed,24554.0,PhD,Business,17,Large,Parking Lot,0,0,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000569,POL_420015,180.15,35,M,Divorced,47768.0,Master,Doctor,11,Sports,City,1,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000570,POL_960394,1759.4,20,F,Married,34580.0,Bachelor,Other,9,Sports,City,1,1,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000571,POL_933980,5932.320388032973,59,F,Married,56674.0,PhD,Student,4,Luxury,Parking Lot,0,0,1,Claiming luxury vehicle repairs for standard model car,1
+CLM_000572,POL_338651,36851.66,71,F,Divorced,50411.0,High School,Other,8,Large,Parking Lot,0,1,3,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000573,POL_333752,4867.77,78,F,Widowed,60866.0,Bachelor,Engineer,1,Compact,Parking Lot,1,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000574,POL_124813,2145.97,56,F,Single,25642.0,High School,Other,1,Large,Highway,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000575,POL_792094,19825.593078765552,58,F,Divorced,41026.0,PhD,Business,5,Large,Rural,1,0,2,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000576,POL_302511,108.13,66,F,Divorced,71809.0,Bachelor,Retired,9,Large,Highway,1,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000577,POL_517821,4244.68,28,M,Widowed,22914.0,Bachelor,Other,17,Sports,Highway,1,1,3,"Collision with deer on rural highway, front end damage",0
+CLM_000578,POL_444207,9473.92,56,F,Married,29938.0,PhD,Doctor,11,Sports,Rural,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000579,POL_392136,324.45,41,M,Widowed,53986.0,Master,Engineer,3,Mid-size,Parking Lot,0,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000580,POL_172792,16574.67,77,M,Divorced,55735.0,Bachelor,Teacher,16,Compact,Parking Lot,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000581,POL_910891,4952.98,63,F,Divorced,40223.0,Bachelor,Doctor,14,Luxury,Rural,1,0,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000582,POL_392683,3998.5737547168224,36,M,Married,44431.0,High School,Engineer,5,Large,Rural,0,1,4,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000583,POL_468203,7701.52,21,M,Married,60665.0,Master,Student,15,Compact,Highway,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000584,POL_772642,89862.8,43,M,Married,66993.0,High School,Teacher,16,Compact,City,1,0,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000585,POL_634150,3915.9,55,M,Widowed,28616.0,High School,Student,2,Mid-size,Rural,1,0,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000586,POL_519093,4325.71,59,F,Married,57286.0,Master,Retired,9,Luxury,Highway,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000587,POL_812526,4256.031659372305,49,F,Divorced,80240.0,Master,Engineer,4,Large,City,1,1,2,Claiming luxury vehicle repairs for standard model car,1
+CLM_000588,POL_984642,833.17,56,F,Divorced,47682.0,PhD,Student,13,Luxury,Parking Lot,1,0,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000589,POL_662262,24516.344761845692,62,F,Single,28403.0,Master,Retired,12,Mid-size,Parking Lot,1,1,1,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000590,POL_447235,825.41,63,F,Widowed,27478.0,Bachelor,Engineer,5,Sports,Highway,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000591,POL_128941,3318.77,53,F,Single,46785.0,Master,Engineer,11,Compact,Highway,0,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000592,POL_220944,1456.1,57,F,Divorced,70717.0,PhD,Student,7,Large,Rural,1,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000593,POL_373903,6114.81,54,F,Single,49185.0,PhD,Engineer,4,Sports,Parking Lot,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000594,POL_287241,4917.19,50,F,Divorced,53785.0,PhD,Doctor,14,Mid-size,Highway,1,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000595,POL_708792,32381.539448920103,53,F,Single,30073.0,Master,Engineer,15,Luxury,Parking Lot,1,1,4,Inconsistent witness statements and conflicting accident details,1
+CLM_000596,POL_378361,1387.11,20,M,Married,69662.0,Master,Business,0,Compact,Parking Lot,1,1,3,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000597,POL_140115,3461.309832842287,26,F,Single,27087.0,High School,Retired,15,Large,Rural,1,0,2,Exaggerated injury claims with inconsistent medical reports,1
+CLM_000598,POL_213668,686.67,25,M,Married,39910.0,High School,Engineer,4,Sports,City,1,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000599,POL_725550,1530.82,50,M,Married,62598.0,Bachelor,Business,2,Sports,Rural,0,1,4,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000600,POL_555673,5249.83,76,M,Widowed,20000.0,High School,Engineer,19,Compact,Highway,1,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000601,POL_462479,23875.970068671675,23,M,Married,53479.0,Bachelor,Engineer,14,Luxury,Rural,1,1,2,Claiming pre-existing damage as accident-related repairs,1
+CLM_000602,POL_863934,1908.7278617482796,58,F,Married,29219.0,PhD,Student,12,Mid-size,Rural,1,1,1,Exaggerated injury claims with inconsistent medical reports,1
+CLM_000603,POL_924629,10986.35,56,M,Single,50331.0,High School,Doctor,15,Luxury,Parking Lot,0,0,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000604,POL_428914,22775.87,21,F,Divorced,42959.0,Master,Retired,10,Luxury,Rural,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000605,POL_557592,5542.23,30,F,Widowed,92117.0,High School,Doctor,1,Luxury,Highway,0,0,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000606,POL_735656,49771.3,66,M,Married,42138.0,Bachelor,Teacher,5,Compact,City,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000607,POL_636265,933.85,77,F,Widowed,86853.0,High School,Student,5,Compact,Rural,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000608,POL_221263,460.82,19,M,Single,61739.0,PhD,Student,13,Mid-size,Rural,0,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000609,POL_503906,206.83,77,M,Married,33971.0,Master,Doctor,10,Luxury,City,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000610,POL_704596,28115.22,22,F,Single,56616.0,Bachelor,Other,7,Compact,Highway,1,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000611,POL_299312,7954.94,61,F,Widowed,43912.0,Master,Student,7,Mid-size,Highway,1,1,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000612,POL_367095,2742.49,44,M,Single,54843.0,Master,Doctor,0,Mid-size,Rural,1,1,3,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000613,POL_146542,4536.69,49,F,Widowed,35722.0,Bachelor,Student,6,Luxury,Parking Lot,0,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000614,POL_843215,551.02,38,F,Single,83804.0,Master,Engineer,5,Large,Rural,1,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000615,POL_557239,116847.85,25,F,Widowed,68508.0,Master,Doctor,7,Luxury,City,0,0,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000616,POL_101773,3618.56,55,M,Divorced,50636.0,High School,Doctor,18,Large,City,1,0,3,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000617,POL_645175,10363.463661171616,25,M,Single,84582.0,Master,Business,19,Mid-size,City,1,0,2,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000618,POL_945687,17268.281463184347,67,F,Single,51486.0,Master,Student,7,Compact,Rural,0,0,2,Inconsistent witness statements and conflicting accident details,1
+CLM_000619,POL_664607,6133.46,20,F,Divorced,71952.0,Master,Student,13,Sports,Rural,1,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000620,POL_820221,4170.65,71,F,Divorced,50766.0,Master,Doctor,17,Mid-size,Highway,0,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000621,POL_854377,910.77,61,F,Single,57878.0,Bachelor,Engineer,15,Compact,Parking Lot,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000622,POL_877991,6046.3,78,F,Divorced,48371.0,PhD,Engineer,8,Mid-size,Rural,0,0,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000623,POL_872840,50163.19,75,M,Married,51906.0,High School,Retired,14,Luxury,Highway,1,1,3,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000624,POL_803204,22429.45,20,F,Widowed,53411.0,Master,Engineer,9,Large,Rural,0,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000625,POL_306606,32525.51,39,M,Widowed,36605.0,Master,Student,15,Mid-size,Highway,1,0,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000626,POL_481913,1384.61,23,F,Widowed,41979.0,Bachelor,Other,3,Compact,Highway,1,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000627,POL_552248,675.59,19,M,Married,45665.0,PhD,Business,19,Luxury,Parking Lot,0,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000628,POL_173372,2468.39,40,F,Divorced,54594.0,Master,Doctor,12,Sports,Rural,1,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000629,POL_796503,3240.84,61,M,Divorced,49388.0,Bachelor,Teacher,4,Luxury,Highway,1,1,3,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000630,POL_446239,15387.14,19,F,Single,73461.0,High School,Business,6,Large,City,1,1,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000631,POL_753425,235.4,55,M,Divorced,66942.0,High School,Other,8,Luxury,City,1,0,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000632,POL_429164,29564.38,34,M,Single,46073.0,Master,Teacher,7,Sports,City,1,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000633,POL_795612,2351.92,52,M,Married,77636.0,Master,Business,15,Compact,Parking Lot,0,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000634,POL_989208,1571.33,51,M,Widowed,87460.0,PhD,Engineer,5,Mid-size,Highway,0,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000635,POL_230679,1720.886237698471,40,M,Widowed,20000.0,PhD,Student,15,Large,Parking Lot,1,1,2,Inconsistent witness statements and conflicting accident details,1
+CLM_000636,POL_854717,249.07,47,M,Widowed,68646.0,Master,Other,5,Sports,Rural,1,1,3,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000637,POL_414910,10247.16,69,F,Divorced,36140.0,Bachelor,Teacher,13,Large,Rural,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000638,POL_631756,3327.5,25,M,Single,66015.0,PhD,Other,0,Luxury,Highway,0,1,3,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000639,POL_424308,430.55,39,F,Single,74765.0,Master,Business,8,Large,City,1,1,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000640,POL_799287,427.26,61,F,Married,32460.0,PhD,Student,12,Sports,Highway,1,1,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000641,POL_528231,1801.41,75,F,Divorced,20000.0,Master,Other,18,Mid-size,Highway,0,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000642,POL_442027,36444.01,53,F,Married,66709.0,High School,Teacher,16,Mid-size,Highway,1,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000643,POL_521947,2019.52,22,F,Single,52708.0,Master,Doctor,10,Large,Parking Lot,1,1,3,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000644,POL_831076,312.71,30,M,Single,20000.0,High School,Business,7,Compact,Rural,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000645,POL_410016,2061.9,46,M,Widowed,100591.0,PhD,Doctor,4,Large,Highway,1,0,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000646,POL_681343,1980.12,48,M,Divorced,62488.0,Master,Engineer,9,Luxury,Highway,1,1,2,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000647,POL_233470,52.18,64,F,Single,63402.0,PhD,Doctor,6,Mid-size,Highway,1,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000648,POL_301158,2747.81,74,M,Widowed,77316.0,High School,Doctor,9,Mid-size,Parking Lot,0,0,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000649,POL_540869,2108.22,72,M,Divorced,38384.0,Master,Retired,3,Mid-size,Parking Lot,1,1,4,"Collision with deer on rural highway, front end damage",0
+CLM_000650,POL_797229,8470.2,33,M,Married,52609.0,PhD,Business,8,Compact,Parking Lot,0,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000651,POL_497562,47735.67,59,M,Divorced,23614.0,High School,Engineer,13,Compact,Highway,1,0,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000652,POL_810219,16152.78,79,M,Divorced,37841.0,PhD,Doctor,1,Sports,City,1,1,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000653,POL_884475,1991.55,47,F,Single,57713.0,Bachelor,Student,8,Large,City,1,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000654,POL_282480,566.92,74,M,Single,20000.0,High School,Teacher,0,Large,City,0,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000655,POL_745414,141497.84,72,F,Divorced,37274.0,High School,Doctor,9,Luxury,Rural,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000656,POL_696750,3257.87,33,F,Single,31441.0,High School,Engineer,9,Mid-size,Highway,1,1,3,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000657,POL_415568,3043.9,29,F,Single,52842.0,Master,Doctor,19,Compact,City,1,1,0,"Collision with deer on rural highway, front end damage",0
+CLM_000658,POL_525800,2875.01,34,F,Single,61494.0,Master,Teacher,2,Luxury,City,1,0,3,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000659,POL_674553,4012.33,33,F,Widowed,64843.0,Master,Engineer,5,Luxury,City,1,0,4,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000660,POL_974224,2400.56,29,M,Widowed,69976.0,Bachelor,Business,5,Compact,Highway,1,1,3,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000661,POL_100425,1260.81,25,M,Divorced,77442.0,Bachelor,Engineer,1,Large,City,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000662,POL_418635,1312.53,37,M,Single,62145.0,High School,Business,17,Mid-size,City,1,0,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000663,POL_400850,2838.04,20,F,Widowed,87747.0,Bachelor,Engineer,1,Large,Highway,1,1,3,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000664,POL_320392,2837.9649596259655,33,M,Divorced,52390.0,PhD,Other,11,Luxury,Rural,0,0,1,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000665,POL_550770,2392.037548939941,47,M,Single,46534.0,High School,Teacher,4,Mid-size,Parking Lot,0,1,0,Multiple injuries reported for single occupant in low-speed accident,1
+CLM_000666,POL_923927,3496.95,62,F,Married,62146.0,High School,Teacher,19,Sports,City,1,1,3,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000667,POL_708158,2033.54,40,F,Single,45672.0,PhD,Engineer,6,Luxury,Parking Lot,1,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000668,POL_736130,28452.45,45,F,Single,87051.0,High School,Other,15,Large,Rural,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000669,POL_786508,55.9,68,F,Widowed,72620.0,Bachelor,Doctor,19,Large,Rural,1,0,4,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000670,POL_437902,41756.55040985285,57,M,Divorced,65006.0,Master,Teacher,0,Large,City,1,1,1,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000671,POL_587575,19324.48,71,F,Divorced,52628.0,PhD,Business,0,Compact,Highway,1,1,0,"Collision with deer on rural highway, front end damage",0
+CLM_000672,POL_563246,132.94,22,F,Widowed,41850.0,Bachelor,Business,16,Luxury,Rural,1,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000673,POL_563638,1782.85,37,M,Single,64027.0,PhD,Student,0,Mid-size,Parking Lot,1,0,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000674,POL_808446,1707.59,57,M,Married,27458.0,PhD,Retired,19,Large,Parking Lot,1,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000675,POL_324082,360.95,73,F,Single,80687.0,High School,Other,12,Large,Parking Lot,1,0,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000676,POL_636004,928.23,61,M,Single,46447.0,High School,Retired,8,Compact,Parking Lot,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000677,POL_596171,563.48,18,F,Married,56102.0,Bachelor,Retired,14,Mid-size,Rural,0,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000678,POL_932291,41291.24,74,F,Widowed,31808.0,PhD,Business,2,Luxury,City,1,1,3,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000679,POL_934692,12130.98,47,M,Divorced,64460.0,High School,Student,13,Sports,City,0,1,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000680,POL_871711,20077.05,38,M,Widowed,40925.0,High School,Retired,10,Compact,Parking Lot,1,0,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000681,POL_277934,8800.01,37,F,Widowed,62985.0,PhD,Retired,11,Luxury,City,0,0,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000682,POL_790855,548.08,23,F,Single,65148.0,Bachelor,Engineer,12,Sports,Parking Lot,1,1,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000683,POL_188914,2487.847492203682,39,F,Divorced,37047.0,Bachelor,Engineer,12,Large,Parking Lot,1,0,2,Multiple injuries reported for single occupant in low-speed accident,1
+CLM_000684,POL_397571,6210.9,35,M,Divorced,27529.0,PhD,Engineer,0,Large,Highway,1,0,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000685,POL_640490,476.66,25,F,Widowed,80638.0,Bachelor,Doctor,9,Mid-size,Rural,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000686,POL_796101,8686.26,56,F,Married,46154.0,High School,Retired,2,Sports,Rural,1,0,3,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000687,POL_763686,2078.73,49,F,Widowed,54497.0,PhD,Doctor,3,Large,Parking Lot,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000688,POL_749342,1698.96,50,F,Married,59709.0,High School,Student,15,Large,Rural,1,0,5,Theft of vehicle contents including electronics and personal items,0
+CLM_000689,POL_451470,8659.74,70,F,Divorced,24926.0,Master,Other,7,Mid-size,City,1,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000690,POL_197923,5804.54,33,M,Widowed,59253.0,Master,Business,15,Luxury,Parking Lot,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000691,POL_958179,1734.63,29,F,Single,51983.0,Bachelor,Retired,16,Large,Highway,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000692,POL_887625,16966.48,55,F,Widowed,37129.0,Master,Business,18,Compact,City,0,0,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000693,POL_346277,588.99,69,F,Divorced,26869.0,High School,Other,14,Compact,Highway,1,1,3,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000694,POL_805477,7509.34,51,F,Single,62118.0,Master,Engineer,15,Luxury,Highway,1,1,4,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000695,POL_425498,7256.49,78,M,Single,72554.0,High School,Retired,14,Sports,Rural,0,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000696,POL_335552,1873.72,31,M,Married,53572.0,Bachelor,Teacher,1,Mid-size,Rural,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000697,POL_945742,4861.97,53,M,Single,21311.0,Bachelor,Doctor,10,Compact,Parking Lot,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000698,POL_308802,919.2876530182824,50,F,Single,28853.0,High School,Doctor,0,Compact,Rural,1,0,1,Claiming luxury vehicle repairs for standard model car,1
+CLM_000699,POL_254511,11920.81,40,F,Widowed,41358.0,Master,Retired,14,Luxury,Highway,0,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000700,POL_125611,2258.93,67,M,Divorced,81292.0,Bachelor,Other,18,Sports,Highway,1,1,3,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000701,POL_148458,1360.92,62,M,Married,45065.0,PhD,Engineer,3,Sports,City,0,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000702,POL_356736,38247.20905870608,19,M,Widowed,40629.0,Bachelor,Doctor,10,Luxury,Highway,0,0,2,Multiple claims filed in short time period with similar circumstances,1
+CLM_000703,POL_598216,1036.38,58,F,Single,20000.0,Master,Engineer,4,Compact,Parking Lot,1,1,3,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000704,POL_740967,360.43,38,F,Single,36866.0,PhD,Student,2,Mid-size,Parking Lot,1,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000705,POL_991014,288.6,19,M,Married,25341.0,Master,Business,12,Compact,Rural,1,0,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000706,POL_905819,7398.37,44,M,Divorced,29936.0,High School,Other,9,Sports,Rural,0,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000707,POL_176365,436.75,74,M,Married,52399.0,PhD,Teacher,10,Compact,Rural,1,0,4,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000708,POL_577538,41447.85,26,F,Widowed,41977.0,Master,Business,17,Mid-size,Parking Lot,0,1,4,"Collision with deer on rural highway, front end damage",0
+CLM_000709,POL_534572,131.25,18,F,Married,83990.0,PhD,Business,1,Large,Highway,1,0,0,"Collision with deer on rural highway, front end damage",0
+CLM_000710,POL_760356,37975.05,28,F,Single,71560.0,Master,Student,6,Compact,Rural,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000711,POL_703634,4090.92,20,M,Widowed,37822.0,PhD,Doctor,8,Luxury,City,1,1,3,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000712,POL_303880,2578.42,69,M,Single,31664.0,Master,Teacher,9,Large,Rural,0,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000713,POL_853240,1316.35,79,F,Divorced,77653.0,High School,Doctor,17,Luxury,Parking Lot,1,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000714,POL_830180,5424.63,40,M,Single,83201.0,PhD,Retired,6,Luxury,Rural,1,0,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000715,POL_502630,2817.34,43,F,Single,20000.0,PhD,Business,6,Luxury,Highway,0,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000716,POL_618392,15598.86,21,M,Married,51857.0,PhD,Retired,2,Compact,Rural,0,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000717,POL_519066,3538.09,35,M,Single,44962.0,PhD,Engineer,11,Sports,Parking Lot,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000718,POL_355836,3734.81,72,M,Widowed,62982.0,High School,Business,6,Large,Parking Lot,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000719,POL_254739,4070.0615515766317,23,M,Widowed,88853.0,PhD,Doctor,16,Mid-size,City,1,1,3,Claiming pre-existing damage as accident-related repairs,1
+CLM_000720,POL_787926,2736.9,52,F,Divorced,40319.0,Bachelor,Business,0,Sports,Parking Lot,1,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000721,POL_821024,4730.1,39,M,Widowed,20000.0,High School,Engineer,4,Compact,City,1,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000722,POL_105814,375.62415786322384,60,F,Married,61580.0,Bachelor,Student,15,Luxury,Highway,1,1,3,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000723,POL_887443,394.54,32,F,Divorced,77799.0,PhD,Retired,14,Mid-size,Parking Lot,0,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000724,POL_907451,9089.69,39,F,Widowed,43925.0,Master,Retired,1,Large,Rural,0,0,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000725,POL_211764,3851.81,77,M,Married,35899.0,Bachelor,Doctor,8,Sports,Highway,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000726,POL_916232,4852.727909919504,54,F,Widowed,41255.0,PhD,Business,6,Sports,Rural,1,1,3,Multiple claims filed in short time period with similar circumstances,1
+CLM_000727,POL_545798,3064.53,69,F,Widowed,67004.0,Bachelor,Doctor,3,Mid-size,Rural,1,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000728,POL_329471,11949.585999658104,59,F,Single,40911.0,PhD,Student,19,Compact,Rural,1,0,3,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000729,POL_284430,1326.58,29,M,Widowed,56575.0,PhD,Business,17,Large,Highway,1,1,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000730,POL_943170,927.55,64,M,Widowed,50556.0,PhD,Business,3,Mid-size,Highway,1,1,4,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000731,POL_829716,3998.87,66,F,Married,48492.0,Master,Doctor,12,Luxury,Parking Lot,0,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000732,POL_643118,687.07,59,M,Married,64026.0,Bachelor,Doctor,0,Large,Rural,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000733,POL_587115,5499.32,55,F,Single,40428.0,High School,Engineer,2,Sports,City,1,0,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000734,POL_152657,231.86,35,F,Widowed,41388.0,High School,Other,15,Mid-size,Parking Lot,0,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000735,POL_684482,13956.96,62,M,Single,65952.0,High School,Other,3,Sports,Highway,1,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000736,POL_361303,6056.55,52,F,Widowed,30261.0,High School,Student,15,Sports,City,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000737,POL_989545,4376.68,47,M,Divorced,32396.0,PhD,Other,18,Sports,Highway,0,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000738,POL_227253,37285.22557331951,41,M,Divorced,24794.0,Bachelor,Engineer,0,Compact,City,0,1,2,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000739,POL_578634,36250.62,59,F,Single,66980.0,Bachelor,Retired,4,Sports,Parking Lot,1,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000740,POL_239816,13650.82,47,M,Single,47895.0,Master,Business,18,Luxury,City,1,0,4,Theft of vehicle contents including electronics and personal items,0
+CLM_000741,POL_940346,188.42,31,M,Single,23728.0,Bachelor,Doctor,10,Luxury,Parking Lot,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000742,POL_587213,437.31,23,F,Married,67076.0,Bachelor,Business,12,Large,Highway,0,1,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000743,POL_800005,1167.68,20,F,Married,38889.0,Bachelor,Business,19,Sports,City,0,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000744,POL_656932,3099.94,33,M,Married,32566.0,Master,Teacher,4,Sports,Rural,0,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000745,POL_686075,6480.08,24,M,Single,46086.0,High School,Retired,3,Mid-size,Rural,0,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000746,POL_724377,1003.64,69,F,Widowed,79574.0,Bachelor,Teacher,3,Compact,Highway,0,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000747,POL_432711,3944.79,31,M,Divorced,42101.0,Master,Other,3,Large,City,1,0,4,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000748,POL_891937,959.99,26,M,Single,61507.0,Master,Business,3,Sports,Rural,1,1,0,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000749,POL_564071,1191.21,32,M,Married,64542.0,PhD,Doctor,19,Mid-size,Parking Lot,1,1,3,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000750,POL_742412,361.41,38,M,Married,58865.0,Master,Business,17,Compact,City,0,1,0,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000751,POL_954596,746.32,52,M,Single,75421.0,High School,Retired,17,Large,City,0,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000752,POL_854213,392.48,19,M,Single,35858.0,Bachelor,Teacher,15,Large,Rural,1,1,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000753,POL_629298,689.65,44,M,Married,29133.0,Master,Doctor,8,Sports,Parking Lot,1,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000754,POL_547470,14479.12,19,F,Widowed,28741.0,High School,Business,17,Large,Parking Lot,1,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000755,POL_970914,717.59,52,F,Married,47111.0,Master,Student,1,Mid-size,Parking Lot,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000756,POL_674485,154596.4,35,F,Married,31059.0,Master,Retired,3,Large,City,1,1,3,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000757,POL_567574,11138.064321006195,31,F,Single,52951.0,Master,Retired,11,Luxury,Highway,1,1,4,Inconsistent witness statements and conflicting accident details,1
+CLM_000758,POL_266889,3933.38,37,F,Widowed,51540.0,Master,Student,6,Mid-size,City,1,1,3,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000759,POL_879779,822.59,35,M,Married,70371.0,Master,Business,14,Compact,City,1,1,4,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000760,POL_597732,8522.5,27,M,Married,55823.0,High School,Retired,6,Compact,Rural,0,1,5,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000761,POL_571932,3405.341036231949,42,M,Divorced,41677.0,Bachelor,Doctor,16,Sports,Highway,1,1,1,Multiple injuries reported for single occupant in low-speed accident,1
+CLM_000762,POL_371782,3579.63,19,M,Single,58217.0,Bachelor,Business,15,Sports,Parking Lot,0,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000763,POL_888295,138708.07,42,F,Divorced,29396.0,Bachelor,Business,18,Luxury,Rural,1,1,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000764,POL_359249,2580.94,78,M,Divorced,49237.0,Bachelor,Teacher,8,Compact,City,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000765,POL_980660,16712.46,71,M,Married,56388.0,High School,Retired,13,Compact,Highway,1,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000766,POL_768636,1760.7045481279297,50,F,Single,52586.0,PhD,Retired,16,Compact,Parking Lot,1,1,1,Multiple injuries reported for single occupant in low-speed accident,1
+CLM_000767,POL_390782,5270.569880926236,53,M,Widowed,58301.0,PhD,Student,4,Compact,Parking Lot,1,0,1,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000768,POL_903013,42455.04,48,M,Married,37119.0,High School,Teacher,1,Large,City,1,1,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000769,POL_915451,1163.92,31,F,Widowed,73041.0,High School,Other,19,Mid-size,Parking Lot,0,1,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000770,POL_646622,45191.89,18,M,Widowed,86443.0,Master,Teacher,15,Mid-size,Parking Lot,0,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000771,POL_608136,8618.17,63,M,Single,20000.0,Master,Retired,13,Luxury,Highway,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000772,POL_757193,1282.16,33,M,Divorced,25688.0,Master,Business,13,Large,Rural,1,0,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000773,POL_350867,14355.399810000261,71,M,Single,50862.0,Bachelor,Teacher,0,Compact,Highway,1,0,2,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000774,POL_387936,12820.9,63,M,Widowed,44869.0,Master,Student,2,Compact,Rural,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000775,POL_561239,21335.138500737143,78,F,Married,87928.0,PhD,Teacher,6,Sports,Rural,1,1,4,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000776,POL_181247,282.78,69,F,Widowed,54396.0,Bachelor,Student,14,Sports,Rural,0,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000777,POL_848206,1001.54,20,F,Married,77851.0,Master,Other,18,Luxury,Parking Lot,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000778,POL_399607,2056.42,52,F,Married,20000.0,Bachelor,Teacher,19,Compact,Highway,0,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000779,POL_345884,2666.04,58,F,Single,66283.0,PhD,Student,1,Luxury,Parking Lot,1,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000780,POL_384913,7562.89,23,F,Widowed,35690.0,Master,Teacher,18,Large,City,0,0,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000781,POL_452161,3891.51,42,M,Divorced,35369.0,PhD,Other,8,Mid-size,Highway,1,0,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000782,POL_435239,402.21,30,F,Widowed,45033.0,PhD,Teacher,18,Compact,Rural,0,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000783,POL_666390,5272.69,70,F,Widowed,21508.0,PhD,Doctor,4,Large,Parking Lot,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000784,POL_184491,7449.32,51,M,Divorced,58856.0,Master,Student,17,Compact,Parking Lot,1,1,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000785,POL_245095,6902.82,25,M,Single,53814.0,High School,Other,15,Sports,Highway,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000786,POL_258157,27123.039161955625,38,F,Widowed,55324.0,Master,Student,3,Luxury,Highway,1,1,2,Claiming luxury vehicle repairs for standard model car,1
+CLM_000787,POL_342495,10413.76,51,M,Widowed,67741.0,PhD,Student,11,Sports,Rural,1,0,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000788,POL_501641,5935.88,21,F,Married,80296.0,Master,Engineer,6,Mid-size,Rural,1,1,4,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000789,POL_827659,2683.16,42,M,Widowed,42726.0,PhD,Other,13,Sports,City,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000790,POL_260227,246.8,32,F,Divorced,59547.0,High School,Teacher,11,Compact,Rural,0,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000791,POL_840734,5678.41,21,M,Married,55860.0,Bachelor,Student,2,Sports,Parking Lot,1,1,3,"Collision with deer on rural highway, front end damage",0
+CLM_000792,POL_324345,4070.54,62,M,Single,57552.0,High School,Retired,4,Compact,City,0,1,3,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000793,POL_167348,4479.95,77,F,Married,57852.0,High School,Engineer,16,Mid-size,City,0,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000794,POL_535020,439.17,29,F,Divorced,81810.0,Bachelor,Doctor,9,Sports,City,1,0,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000795,POL_527398,1578.752997880704,49,F,Divorced,40806.0,Master,Student,9,Luxury,Highway,1,1,2,Inconsistent witness statements and conflicting accident details,1
+CLM_000796,POL_446954,31725.22175619431,49,F,Married,20000.0,Bachelor,Student,10,Luxury,Rural,1,0,2,Claiming luxury vehicle repairs for standard model car,1
+CLM_000797,POL_668969,2809.23,45,F,Single,36043.0,Master,Engineer,16,Luxury,City,1,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000798,POL_588557,8285.41,30,M,Married,65145.0,Master,Teacher,4,Sports,Highway,0,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000799,POL_535970,3110.31,48,F,Single,50467.0,PhD,Retired,12,Sports,Highway,0,1,0,"Collision with deer on rural highway, front end damage",0
+CLM_000800,POL_165290,3117.02,31,F,Married,40648.0,PhD,Doctor,9,Sports,City,1,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000801,POL_316881,12178.48,37,M,Divorced,28470.0,Bachelor,Student,8,Compact,City,1,0,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000802,POL_973349,4121.985226844309,35,M,Widowed,54426.0,High School,Teacher,16,Mid-size,Parking Lot,0,0,2,Claiming pre-existing damage as accident-related repairs,1
+CLM_000803,POL_540552,3443.28,46,F,Widowed,62890.0,Bachelor,Other,0,Luxury,City,1,1,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000804,POL_508396,1490.08,77,M,Single,56117.0,Master,Retired,3,Compact,Parking Lot,1,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000805,POL_907189,1553.48,23,M,Single,44933.0,PhD,Other,3,Luxury,City,1,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000806,POL_712451,1874.77,49,F,Single,52933.0,Bachelor,Retired,17,Compact,City,1,0,3,"Collision with deer on rural highway, front end damage",0
+CLM_000807,POL_829308,4159.71,46,M,Divorced,52817.0,Bachelor,Doctor,8,Sports,Rural,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000808,POL_120480,1453.71,60,M,Married,53794.0,PhD,Business,17,Luxury,City,1,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000809,POL_998348,19606.85,79,F,Divorced,26314.0,PhD,Retired,13,Sports,City,0,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000810,POL_902784,779.06,19,F,Widowed,53947.0,PhD,Business,14,Luxury,Parking Lot,1,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000811,POL_703655,2252.27,77,M,Single,41188.0,Master,Other,5,Large,Parking Lot,1,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000812,POL_498858,4251.970349426175,40,M,Married,70812.0,PhD,Retired,9,Compact,Rural,0,1,1,Claiming luxury vehicle repairs for standard model car,1
+CLM_000813,POL_600149,26120.27,36,F,Widowed,52658.0,High School,Doctor,14,Large,City,1,0,3,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000814,POL_106182,4003.13,48,M,Widowed,66710.0,Bachelor,Engineer,3,Compact,City,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000815,POL_468845,14013.37,68,M,Widowed,43964.0,PhD,Doctor,17,Mid-size,Parking Lot,1,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000816,POL_413118,321.07,22,M,Divorced,44686.0,PhD,Doctor,17,Luxury,Highway,0,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000817,POL_890075,4449.63,36,F,Single,79885.0,Master,Engineer,16,Mid-size,Highway,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000818,POL_508930,11321.36,51,M,Widowed,58727.0,Master,Engineer,11,Mid-size,Highway,1,1,0,"Collision with deer on rural highway, front end damage",0
+CLM_000819,POL_994905,8800.87980467,27,M,Single,35710.0,Bachelor,Teacher,6,Compact,Parking Lot,0,1,1,Multiple claims filed in short time period with similar circumstances,1
+CLM_000820,POL_976325,14738.53,42,F,Divorced,67939.0,High School,Retired,15,Large,Parking Lot,1,1,4,"Collision with deer on rural highway, front end damage",0
+CLM_000821,POL_539375,1372.06,19,M,Widowed,39334.0,Bachelor,Other,10,Sports,Highway,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000822,POL_664365,24686.73,79,M,Divorced,54514.0,PhD,Teacher,13,Compact,Highway,1,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000823,POL_883826,93746.27,28,F,Divorced,86733.0,High School,Engineer,2,Sports,City,0,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000824,POL_870319,1729.77,67,F,Single,21374.0,High School,Business,18,Mid-size,Parking Lot,1,0,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000825,POL_672661,1528.05,78,F,Widowed,46484.0,High School,Other,17,Sports,Parking Lot,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000826,POL_938722,74003.56622238294,48,F,Divorced,58165.0,High School,Business,9,Large,Highway,1,1,3,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000827,POL_732556,31868.02,73,M,Widowed,65294.0,Bachelor,Doctor,5,Compact,Highway,1,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000828,POL_331251,3334.9906700911697,32,M,Single,25175.0,Master,Student,12,Large,Rural,1,1,1,Multiple injuries reported for single occupant in low-speed accident,1
+CLM_000829,POL_611945,1587.19,26,F,Divorced,20000.0,Master,Doctor,9,Large,Parking Lot,0,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000830,POL_330080,1953.39,40,F,Single,71815.0,PhD,Doctor,17,Compact,Rural,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000831,POL_386193,396.76,36,M,Widowed,35592.0,Master,Student,19,Large,City,1,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000832,POL_557007,751.46,26,F,Widowed,34754.0,Master,Retired,15,Luxury,Rural,1,1,2,Theft of vehicle contents including electronics and personal items,0
+CLM_000833,POL_609232,1828.036521915701,52,M,Single,81005.0,Master,Engineer,5,Luxury,Highway,0,1,2,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000834,POL_130434,942.28,38,F,Married,51394.0,Master,Business,12,Luxury,Parking Lot,1,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000835,POL_507746,2829.83,26,M,Divorced,51525.0,PhD,Doctor,3,Sports,Parking Lot,1,1,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000836,POL_452457,4235.78,45,F,Widowed,46404.0,Bachelor,Student,13,Large,Rural,1,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000837,POL_801364,30508.2,79,F,Widowed,25520.0,High School,Teacher,0,Compact,Rural,0,0,3,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000838,POL_812131,666.79,63,M,Divorced,63514.0,Master,Doctor,19,Compact,City,0,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000839,POL_936912,13049.22,68,F,Single,58189.0,Bachelor,Business,4,Sports,City,0,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000840,POL_523956,4090.761294226012,24,M,Single,53374.0,Master,Engineer,7,Compact,Highway,1,1,0,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000841,POL_859359,2767.79,33,M,Single,47674.0,Master,Doctor,11,Luxury,Highway,0,1,3,Theft of vehicle contents including electronics and personal items,0
+CLM_000842,POL_273061,8202.79,33,M,Married,44154.0,High School,Doctor,1,Large,Highway,0,1,3,"Collision with deer on rural highway, front end damage",0
+CLM_000843,POL_981334,911.0552456015035,77,M,Married,68250.0,High School,Retired,11,Compact,Rural,0,1,3,Claiming pre-existing damage as accident-related repairs,1
+CLM_000844,POL_590094,5290.22,50,M,Widowed,47174.0,High School,Student,4,Compact,Rural,1,1,2,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000845,POL_233827,3826.39,21,F,Single,48719.0,Master,Teacher,4,Mid-size,Parking Lot,0,0,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000846,POL_752483,6239.63,21,F,Divorced,60598.0,Master,Teacher,12,Mid-size,Highway,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000847,POL_660069,4599.73,56,M,Widowed,54159.0,Master,Other,8,Mid-size,Rural,0,1,2,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000848,POL_128276,118533.42,57,F,Divorced,82846.0,High School,Engineer,9,Large,Parking Lot,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000849,POL_513160,1145.26,34,M,Widowed,20000.0,PhD,Other,0,Luxury,Highway,1,1,4,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000850,POL_720644,1344.13,54,F,Married,55998.0,Bachelor,Business,2,Luxury,City,1,0,3,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000851,POL_691807,1170.62,56,F,Widowed,35888.0,PhD,Engineer,17,Luxury,City,1,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000852,POL_795205,1295.67,77,F,Married,31158.0,Master,Doctor,11,Large,Rural,1,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000853,POL_128418,1145.87,69,F,Widowed,40859.0,Master,Doctor,2,Large,Parking Lot,1,1,3,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000854,POL_188025,17739.07,46,M,Single,51094.0,PhD,Teacher,8,Mid-size,City,1,1,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000855,POL_773971,25103.34,69,M,Divorced,51981.0,Master,Business,1,Compact,Parking Lot,1,1,3,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000856,POL_549433,1266.33,53,F,Single,20000.0,Bachelor,Student,2,Sports,Parking Lot,1,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000857,POL_242291,855.31,77,F,Widowed,39178.0,Master,Business,13,Sports,City,1,1,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000858,POL_584125,6045.83,55,M,Widowed,55624.0,Bachelor,Doctor,3,Compact,Parking Lot,1,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000859,POL_290556,1302.01,56,F,Widowed,32461.0,PhD,Student,18,Mid-size,City,1,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000860,POL_152727,7703.25,67,M,Married,27704.0,PhD,Business,12,Compact,Rural,1,1,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000861,POL_372793,4041.55,54,M,Divorced,20000.0,Master,Business,6,Compact,Highway,0,0,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000862,POL_497519,306.86,69,M,Divorced,36736.0,Bachelor,Student,11,Sports,Highway,0,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000863,POL_443254,73617.2487569884,79,F,Widowed,27007.0,Master,Doctor,2,Mid-size,Rural,1,0,6,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000864,POL_321941,44082.43,78,M,Widowed,30321.0,High School,Business,8,Large,City,0,0,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000865,POL_576786,1188.94,52,F,Married,44564.0,High School,Student,1,Sports,City,1,1,3,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000866,POL_442722,1666.44,24,M,Single,38003.0,High School,Retired,8,Large,City,0,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000867,POL_453894,4577.0,44,F,Single,26675.0,High School,Retired,11,Mid-size,City,1,0,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000868,POL_898207,4923.06,45,F,Divorced,20000.0,Master,Doctor,11,Compact,Rural,1,1,2,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000869,POL_497542,8004.96,39,F,Married,56046.0,High School,Student,14,Luxury,Highway,1,1,3,Theft of vehicle contents including electronics and personal items,0
+CLM_000870,POL_391773,60797.67,31,M,Widowed,65057.0,Bachelor,Retired,1,Luxury,Parking Lot,1,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000871,POL_888539,4919.6609582228875,24,M,Divorced,42065.0,PhD,Student,17,Mid-size,Parking Lot,0,1,3,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000872,POL_972335,900.14,54,F,Married,44684.0,PhD,Business,12,Luxury,Highway,0,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000873,POL_542042,376.54,78,F,Single,50056.0,High School,Doctor,13,Large,Rural,1,1,3,Theft of vehicle contents including electronics and personal items,0
+CLM_000874,POL_364525,995.86,39,F,Married,81576.0,High School,Retired,4,Luxury,Parking Lot,1,0,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000875,POL_975467,6069.041990710828,22,M,Single,20000.0,High School,Other,9,Mid-size,Highway,1,0,5,Claiming pre-existing damage as accident-related repairs,1
+CLM_000876,POL_185884,43995.24,79,M,Married,41710.0,Master,Business,11,Mid-size,Rural,1,0,2,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000877,POL_593152,1371.39,72,M,Divorced,20000.0,PhD,Other,9,Large,Parking Lot,1,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000878,POL_120324,9549.899421821085,19,M,Single,57246.0,High School,Other,10,Luxury,City,1,1,5,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000879,POL_885408,2908.42,79,F,Divorced,47121.0,Bachelor,Engineer,1,Luxury,City,1,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000880,POL_665621,36190.63457946632,44,F,Divorced,54060.0,High School,Engineer,4,Compact,Rural,0,1,2,Multiple claims filed in short time period with similar circumstances,1
+CLM_000881,POL_154615,131979.07,38,M,Single,53062.0,PhD,Doctor,6,Sports,City,1,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000882,POL_466960,1344.39,71,M,Single,69814.0,High School,Retired,5,Mid-size,Rural,1,1,3,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000883,POL_335113,3489.336757630195,55,F,Widowed,60763.0,PhD,Retired,2,Compact,Highway,0,1,1,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000884,POL_781725,14274.66,32,M,Widowed,66610.0,High School,Retired,12,Mid-size,Highway,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000885,POL_171951,8290.27,38,M,Widowed,28689.0,Bachelor,Student,2,Compact,Parking Lot,0,1,4,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000886,POL_919182,47574.92,27,M,Divorced,73863.0,High School,Business,5,Sports,Rural,1,0,1,"Collision with deer on rural highway, front end damage",0
+CLM_000887,POL_783414,7157.33,40,M,Divorced,35553.0,Bachelor,Retired,10,Compact,Parking Lot,1,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000888,POL_142213,1738.99,75,M,Widowed,36703.0,Bachelor,Business,16,Mid-size,Parking Lot,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000889,POL_890870,7229.91,73,M,Divorced,55417.0,High School,Doctor,9,Luxury,Highway,1,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000890,POL_132537,15725.76,56,F,Divorced,56038.0,Bachelor,Other,11,Mid-size,Parking Lot,1,1,3,Theft of vehicle contents including electronics and personal items,0
+CLM_000891,POL_359295,15776.847467520785,22,M,Single,28563.0,Master,Retired,16,Large,City,1,1,2,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000892,POL_309044,18851.623754847446,18,M,Single,46534.0,High School,Doctor,3,Large,Parking Lot,1,1,3,Expensive medical treatment sought immediately after minor fender bender,1
+CLM_000893,POL_979995,14764.96,30,F,Divorced,79765.0,High School,Retired,1,Large,Rural,1,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000894,POL_121369,17222.01,38,F,Widowed,20633.0,Bachelor,Engineer,10,Large,City,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000895,POL_751517,23700.19,43,F,Married,79704.0,Bachelor,Teacher,6,Sports,Highway,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000896,POL_259784,7887.74,67,M,Widowed,45166.0,High School,Doctor,1,Luxury,Rural,0,1,1,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000897,POL_350132,2320.0,62,F,Married,20000.0,Master,Retired,17,Luxury,City,1,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000898,POL_232352,3714.76,38,M,Widowed,22665.0,Bachelor,Teacher,3,Mid-size,Rural,0,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000899,POL_596564,18210.68,70,M,Single,30730.0,Bachelor,Doctor,7,Compact,City,0,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000900,POL_801978,875.33,35,M,Divorced,37521.0,PhD,Student,19,Mid-size,Rural,1,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000901,POL_219946,14961.715726121283,54,F,Divorced,47906.0,Master,Retired,13,Mid-size,Rural,0,1,3,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000902,POL_691364,4796.789654028019,62,F,Single,20000.0,Master,Student,11,Mid-size,City,1,1,2,"Suspicious timing of accident report, filed weeks after alleged incident",1
+CLM_000903,POL_328552,3112.3,49,F,Married,53736.0,High School,Engineer,17,Mid-size,Highway,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000904,POL_587623,41535.343291225596,53,F,Married,28898.0,Master,Retired,10,Luxury,Highway,1,1,0,Exaggerated injury claims with inconsistent medical reports,1
+CLM_000905,POL_833442,3970.51,34,F,Married,77810.0,High School,Other,7,Compact,Rural,1,1,3,"Collision with deer on rural highway, front end damage",0
+CLM_000906,POL_368690,3196.0,52,M,Single,44596.0,PhD,Engineer,1,Mid-size,Rural,1,1,5,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000907,POL_904150,890.8482080622847,66,M,Married,68857.0,Master,Teacher,14,Luxury,Highway,0,1,2,Inconsistent witness statements and conflicting accident details,1
+CLM_000908,POL_486814,9130.54,77,M,Single,72207.0,Bachelor,Doctor,8,Mid-size,Highway,1,1,2,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000909,POL_275939,7849.67,28,M,Widowed,71665.0,PhD,Business,18,Large,Parking Lot,1,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000910,POL_735324,76487.46,38,F,Widowed,38672.0,High School,Engineer,19,Mid-size,Highway,1,1,3,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000911,POL_736745,1878.69,69,F,Single,38416.0,PhD,Business,7,Mid-size,Rural,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000912,POL_884256,4141.14,72,M,Divorced,45501.0,High School,Business,18,Sports,City,1,1,0,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000913,POL_853252,4333.26,70,F,Widowed,62725.0,PhD,Doctor,4,Large,Highway,1,1,3,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000914,POL_220096,31766.89,43,F,Married,39786.0,High School,Teacher,10,Compact,Parking Lot,1,1,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000915,POL_915573,7573.9170978607035,79,M,Single,47615.0,Master,Doctor,14,Mid-size,Parking Lot,0,0,2,Inconsistent witness statements and conflicting accident details,1
+CLM_000916,POL_959099,4530.25,21,M,Married,55472.0,Bachelor,Retired,7,Compact,Parking Lot,1,0,0,"Collision with deer on rural highway, front end damage",0
+CLM_000917,POL_271720,7419.34,51,F,Married,31902.0,High School,Engineer,18,Large,City,1,1,4,"Collision with deer on rural highway, front end damage",0
+CLM_000918,POL_426147,3943.85,69,F,Divorced,30638.0,PhD,Business,7,Mid-size,Highway,0,1,3,Theft of vehicle contents including electronics and personal items,0
+CLM_000919,POL_213349,1525.92,65,M,Married,46835.0,High School,Doctor,18,Sports,Highway,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000920,POL_706794,3988.36,77,M,Divorced,49484.0,High School,Doctor,17,Luxury,Highway,1,0,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000921,POL_126925,14919.85,35,M,Widowed,58678.0,High School,Doctor,9,Sports,City,1,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000922,POL_427110,639.21,57,F,Single,63438.0,PhD,Engineer,6,Sports,City,0,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000923,POL_703766,3638.96,52,M,Married,28019.0,Bachelor,Teacher,8,Luxury,Rural,1,0,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000924,POL_810250,1042.96,58,M,Single,33758.0,Master,Other,0,Luxury,Parking Lot,0,1,2,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000925,POL_493537,17900.25,46,F,Married,30585.0,Bachelor,Doctor,18,Luxury,Parking Lot,1,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000926,POL_515922,303.45,69,F,Single,78249.0,High School,Engineer,4,Mid-size,Highway,0,1,2,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000927,POL_849747,1288.99,46,F,Married,47595.0,PhD,Business,18,Compact,City,1,1,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000928,POL_307963,5249.13,55,F,Married,50323.0,Bachelor,Retired,0,Compact,City,1,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000929,POL_179688,31203.52,59,F,Married,51155.0,High School,Other,14,Luxury,Highway,1,1,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000930,POL_720859,2700.99,38,M,Married,35687.0,Master,Student,15,Sports,Highway,0,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000931,POL_824161,1296.21,59,M,Married,81285.0,Master,Other,6,Large,Rural,1,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000932,POL_970917,142955.48496160045,30,F,Married,58221.0,Master,Other,11,Luxury,Parking Lot,1,1,6,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000933,POL_757711,339.67,66,F,Married,50792.0,High School,Engineer,7,Sports,Parking Lot,1,0,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000934,POL_354646,110.14,58,F,Married,27895.0,PhD,Student,4,Sports,Parking Lot,1,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000935,POL_206851,5767.66,34,F,Married,26761.0,Bachelor,Doctor,9,Mid-size,Rural,1,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000936,POL_831059,3769.6372319036304,73,F,Single,43822.0,Master,Doctor,4,Mid-size,Highway,1,1,2,Medical bills submitted from out-of-network providers at inflated rates,1
+CLM_000937,POL_910004,644.29,26,M,Divorced,36000.0,High School,Other,16,Compact,Highway,0,1,0,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000938,POL_416232,8625.99,58,M,Married,28651.0,High School,Engineer,4,Compact,Parking Lot,0,1,0,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000939,POL_991597,4297.12,18,M,Divorced,42581.0,Bachelor,Student,14,Large,Parking Lot,1,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000940,POL_817497,1279.06,19,M,Married,45671.0,Master,Doctor,12,Large,Rural,0,1,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000941,POL_729577,436.83,77,F,Married,52836.0,High School,Business,0,Large,City,1,0,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000942,POL_944657,11033.44,65,M,Single,39922.0,Bachelor,Teacher,10,Large,City,1,1,4,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000943,POL_226935,7905.4,46,F,Widowed,29848.0,PhD,Teacher,0,Sports,Parking Lot,1,1,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000944,POL_934904,2568.91,50,F,Widowed,30542.0,PhD,Doctor,10,Sports,Rural,0,0,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000945,POL_693423,47569.9,27,F,Single,74259.0,PhD,Student,17,Compact,Parking Lot,0,1,2,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000946,POL_920652,598.77,67,M,Divorced,24965.0,Master,Retired,17,Mid-size,City,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000947,POL_143064,302.39,75,F,Widowed,57264.0,Bachelor,Doctor,15,Mid-size,Parking Lot,1,1,2,"Rear-ended at traffic light, moderate damage to bumper and trunk",0
+CLM_000948,POL_464069,1055.89,77,M,Single,60391.0,Bachelor,Retired,12,Luxury,City,1,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000949,POL_658623,2783.94,57,M,Single,47574.0,High School,Retired,6,Sports,City,0,1,4,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000950,POL_549186,4294.15,38,F,Widowed,85357.0,High School,Student,0,Large,City,0,1,3,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000951,POL_793655,2075.89,45,F,Divorced,60034.0,High School,Retired,15,Large,Highway,0,0,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000952,POL_488571,5054.75,28,F,Single,86858.0,Bachelor,Business,0,Luxury,Highway,1,0,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000953,POL_172306,456.09,72,M,Married,36979.0,High School,Student,16,Mid-size,Parking Lot,0,0,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000954,POL_630538,25994.67,51,F,Divorced,37321.0,Bachelor,Doctor,5,Large,City,0,0,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000955,POL_778998,2635.36,25,M,Divorced,60551.0,Bachelor,Other,1,Mid-size,Highway,0,0,4,"Collision with deer on rural highway, front end damage",0
+CLM_000956,POL_457806,15929.75,76,F,Widowed,44771.0,PhD,Business,16,Luxury,Parking Lot,1,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000957,POL_113266,4984.5,39,F,Widowed,83713.0,High School,Engineer,5,Mid-size,Parking Lot,1,1,4,Theft of vehicle contents including electronics and personal items,0
+CLM_000958,POL_990844,5914.31,25,M,Married,56834.0,PhD,Teacher,13,Mid-size,Parking Lot,1,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000959,POL_540463,7006.9,66,M,Single,29109.0,Master,Doctor,17,Mid-size,Parking Lot,0,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000960,POL_962276,5834.61,32,M,Widowed,20000.0,Master,Doctor,5,Large,Parking Lot,1,1,1,"Collision with deer on rural highway, front end damage",0
+CLM_000961,POL_614013,16502.130976182598,34,M,Widowed,48435.0,Master,Doctor,9,Compact,Rural,1,1,2,Claiming luxury vehicle repairs for standard model car,1
+CLM_000962,POL_210665,51362.192187319895,77,M,Divorced,48218.0,Bachelor,Business,17,Sports,City,0,1,4,Inconsistent witness statements and conflicting accident details,1
+CLM_000963,POL_554582,4002.93,40,M,Widowed,56275.0,Bachelor,Engineer,8,Mid-size,Parking Lot,0,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000964,POL_479781,8634.37,41,F,Widowed,74214.0,Bachelor,Other,7,Mid-size,Rural,1,1,2,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000965,POL_766459,2605.54,62,F,Widowed,71582.0,High School,Student,9,Mid-size,City,0,1,0,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000966,POL_968962,25852.84,36,M,Widowed,38422.0,PhD,Engineer,16,Compact,Highway,0,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000967,POL_582071,1080.75,22,F,Divorced,24124.0,Bachelor,Business,5,Luxury,Parking Lot,1,1,1,Theft of vehicle contents including electronics and personal items,0
+CLM_000968,POL_841666,44418.47,49,M,Married,25318.0,PhD,Doctor,13,Large,Rural,1,1,4,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000969,POL_260422,2806.7,61,F,Married,35264.0,PhD,Teacher,5,Compact,Highway,1,1,4,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000970,POL_556641,348.57,18,F,Single,42665.0,PhD,Doctor,6,Mid-size,Rural,1,0,1,"Side collision at intersection, driver and passenger minor injuries",0
+CLM_000971,POL_284692,3612.5,40,M,Widowed,56101.0,High School,Student,11,Compact,City,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000972,POL_869440,1073.22,54,M,Divorced,33981.0,High School,Retired,2,Compact,City,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000973,POL_647091,10519.28,25,M,Single,55608.0,Master,Teacher,13,Compact,Highway,0,1,3,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000974,POL_782054,1119.98,30,F,Single,57241.0,Master,Doctor,18,Luxury,Rural,1,0,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000975,POL_383201,1526.49,25,M,Married,52867.0,PhD,Other,15,Sports,Parking Lot,0,1,0,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000976,POL_745830,175.16,74,F,Divorced,27428.0,Master,Teacher,6,Large,Parking Lot,1,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000977,POL_947458,4067.750856940359,40,M,Divorced,59357.0,PhD,Retired,7,Luxury,Highway,1,1,7,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000978,POL_664315,78.59,60,F,Divorced,91625.0,High School,Engineer,17,Luxury,Highway,1,0,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000979,POL_912270,277.04,18,F,Married,54918.0,High School,Business,12,Sports,Highway,1,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000980,POL_606983,9326.56,62,M,Married,20000.0,High School,Doctor,8,Luxury,Rural,1,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000981,POL_587455,18500.46055408406,68,F,Married,74818.0,Bachelor,Student,9,Compact,Parking Lot,1,1,1,"Vehicle completely destroyed in minor collision, claiming total loss",1
+CLM_000982,POL_556732,5643.09,41,F,Married,35945.0,PhD,Engineer,8,Compact,Parking Lot,1,1,4,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000983,POL_965845,698.92,52,M,Married,95314.0,High School,Doctor,14,Mid-size,Parking Lot,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000984,POL_866536,2775.07,41,F,Widowed,52327.0,PhD,Engineer,19,Luxury,Highway,1,1,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000985,POL_721254,2964.89,34,M,Widowed,20000.0,Master,Student,1,Mid-size,Parking Lot,1,0,1,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000986,POL_381433,524.5,22,M,Divorced,20000.0,Master,Doctor,12,Large,City,1,1,0,"Collision with deer on rural highway, front end damage",0
+CLM_000987,POL_437960,28427.08,37,M,Single,80795.0,High School,Retired,1,Compact,Highway,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000988,POL_993085,11114.92,38,M,Divorced,72118.0,PhD,Retired,18,Large,Parking Lot,0,1,1,Hail damage to vehicle roof and windows during severe storm,0
+CLM_000989,POL_357420,2139.98,57,F,Single,94520.0,High School,Student,1,Sports,Rural,1,1,1,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000990,POL_971084,3103.63,75,F,Married,50218.0,Master,Teacher,2,Compact,Highway,1,1,1,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000991,POL_190872,4074.79,48,F,Single,48869.0,High School,Student,5,Large,City,1,1,2,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000992,POL_392477,139.41,63,M,Divorced,42346.0,PhD,Teacher,2,Sports,City,1,1,2,"Collision with deer on rural highway, front end damage",0
+CLM_000993,POL_572700,2057.47,53,F,Divorced,36834.0,Master,Doctor,9,Large,Rural,1,1,0,"Minor collision in parking garage, exchanged insurance information",0
+CLM_000994,POL_355709,1071.72,28,F,Single,42151.0,Bachelor,Teacher,5,Sports,Rural,0,1,0,"Vandalism to parked vehicle, broken windows and scratched paint",0
+CLM_000995,POL_886931,663.53,69,M,Widowed,54349.0,Master,Doctor,15,Sports,Highway,0,1,0,"Door ding in parking lot, small dent and paint scratch",0
+CLM_000996,POL_587282,1955.4,32,M,Married,33122.0,Bachelor,Doctor,16,Compact,Highway,1,1,0,Theft of vehicle contents including electronics and personal items,0
+CLM_000997,POL_697530,44202.2,36,F,Married,20000.0,High School,Other,18,Mid-size,City,0,1,4,"Tree fell on parked car during windstorm, roof damage",0
+CLM_000998,POL_739979,7795.21,24,M,Divorced,53198.0,High School,Business,2,Sports,Rural,1,1,1,"Single vehicle accident due to road conditions, minor injuries",0
+CLM_000999,POL_800646,3087.431909979536,68,M,Widowed,32676.0,PhD,Doctor,17,Sports,Highway,1,1,3,Claiming luxury vehicle repairs for standard model car,1
+CLM_001000,POL_497399,7036.56,45,M,Single,20000.0,Bachelor,Teacher,6,Compact,City,1,1,1,"Door ding in parking lot, small dent and paint scratch",0
